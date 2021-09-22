@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Status Employee Handbook"
+
+[output.html]
+default-theme = "light"
+path = "book/"
+additional-css = ["custom.css"]
+git-repository-url = "https://github.com/status-im/handbook.status.im"
+git-branch = "master"
