@@ -11,6 +11,7 @@ pipeline {
   }
 
   environment {
+    CNAME = 'handbook.status.im'
     GIT_COMMITTER_NAME = 'status-im-auto'
     GIT_COMMITTER_EMAIL = 'auto@status.im'
   }
@@ -25,7 +26,7 @@ pipeline {
     stage('Publish Prod') {
       steps {
         sshagent(credentials: ['status-im-auto-ssh']) {
-          sh 'ghp-import -p book'
+          sh "ghp-import -p -c ${CNAME} book"
         }
       }
     }
