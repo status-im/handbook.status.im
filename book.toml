@@ -1,0 +1,6 @@
+[book]
+authors = ["Jakub Sokołowski"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Status Employee Handbook"
