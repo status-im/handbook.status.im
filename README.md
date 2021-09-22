@@ -16,4 +16,9 @@ Will expose the built page under http://localhost:3000/.
 
 # Continuous Integration
 
-The `master` branch is built by [our own Jenkins](https://ci.status.im/job/website/job/handbook.status.im/).
+Two branches are built by [our Jenkins instance](https://ci.status.im/):
+
+* `master` is deployed to https://handbook.status.im/ by [CI](https://ci.status.im/job/website/job/handbook.status.im/)
+* `develop` is deployed to https://dev-handbook.status.im/ by [CI](https://ci.status.im/job/website/job/dev-handbook.status.im/)
+
+PRs should be made for `develop` branch and `master` should be [rebased](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) on `develop` once changes are verified.
