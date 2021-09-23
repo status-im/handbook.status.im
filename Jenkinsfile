@@ -31,7 +31,7 @@ pipeline {
       when { expression { env.GIT_BRANCH ==~ /.*master/ } }
       steps {
         sshagent(credentials: ['status-im-auto-ssh']) {
-          sh "ghp-import -p -c ${CNAME} book"
+          sh "ghp-import -p book"
         }
       }
     }

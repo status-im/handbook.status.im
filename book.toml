@@ -6,6 +6,7 @@ src = "src"
 title = "Status Employee Handbook"
 
 [output.html]
+cname = "handbook.status.im"
 default-theme = "light"
 path = "book/"
 additional-css = ["custom.css"]
