@@ -2,7 +2,7 @@
 
 Connecting with people in person is such an essential part of the remote working experience at Status. Magic happens when people get together. 
 
-![Status contributors traveling][https://status.im/img/about-gallery.jpg]
+! [image][team-gallery.jpg]
 
 Here you'll find helpful information to make your travel abroad experience more efficient while being compliant and accountable to project resources. These guidelines apply to anyone traveling for or sponsored by Status away from their usual working location. 
 
