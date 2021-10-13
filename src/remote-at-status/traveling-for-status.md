@@ -8,7 +8,7 @@ Here you'll find helpful information to make your travel abroad experience more 
 
 Some of these points might not apply to offsites as they're usually centrally organized with their particular budget.
 
-Your travel budget comes from your team's budget. If you don't have previous approval or you haven't posted your travel plans yet, check out [Events and meetups]("") before booking your trip. 
+Your travel budget comes from your team's budget. If you don't have previous approval or haven't posted your travel plans yet, check out [Events and meetups]("") before booking your trip. 
 
 If the travel falls outside your team's budget, talk with your team lead about the event or meeting you're attending and [create a travel request]("").
 
@@ -55,7 +55,7 @@ Whether using a company card or requesting reimbursements, you're responsible fo
 
 The standard travel booking process uses [TravelPerk]("") for flights, trains, and accommodation, including Airbnbs. You can create individual or group itineraries. TravelPerk helps find better rates, provides support for travel changes and cancellations, and you can still pay with a personal card, if you want, and expense it. 
 
-You can use your own car to drive to the event or meeting location. In this case, you can expense the gas costs. 
+You can use your car to drive to the event or meeting location. In this case, you can expense the gas costs. 
 
 We generally discourage using rental cars unless strictly necessary, so if you're thinking about renting one, please check with someone in People Ops first.
 
