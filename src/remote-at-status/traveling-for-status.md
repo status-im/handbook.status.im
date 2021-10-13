@@ -8,7 +8,7 @@ Here you'll find helpful information to make your travel abroad experience more 
 
 Some of these points might not apply to offsites as they're usually centrally organized with their particular budget.
 
-Your travel budget comes from your team's budget. If you don't have previous approval or you haven't posted your travel plans yet, check out [Events and Meetings]("") before booking your trip. 
+Your travel budget comes from your team's budget. If you don't have previous approval or you haven't posted your travel plans yet, check out [Events and meetups]("") before booking your trip. 
 
 If the travel falls outside your team's budget, talk with your team lead about the event or meeting you're attending and [create a travel request]("").
 
