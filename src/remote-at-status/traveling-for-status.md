@@ -40,9 +40,9 @@ Don't go overboard with spending on bookings, food, and drinks. Keep accountabil
 
    * Travel programs, airline upgrades, fast tracks, or premium services.
    * Airline/accommodation no-show, cancellation, or rebooking fees.
-   * Convenience products and fees for use of gym, spa, and other facilities.
-   * Hotel, flights, etc. room-service or in-room movies/entertainment.
-   * Mobile, roaming, or hotspot conneciton fees.
+   * Convenience products and fees for the use of the gym, spa, and other facilities.
+   * Hotel, flights, etc., room service, or in-room movies/entertainment.
+   * Mobile, roaming, or hotspot connection fees.
    * Any personal expenses and fines, custom charges, etc.
 
 Whether using a company card or requesting reimbursements, you're responsible for submitting your expenses correctly as a traveler. We currently process expenses together with payroll or invoices. When you're back from your trip, follow the instructions on How to file expenses or get reimbursed for uploading your receipts in a compliant and timely manner to keep our finances healthy. 
