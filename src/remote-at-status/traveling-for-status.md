@@ -122,4 +122,4 @@ International prepaid SIM cards:
 
 *****
 
-✍️ **Contribute to this page!** create a Github issue and assign it to someone from the People Ops team!
+✍️ **Contribute to this page!** Create a Github issue and assign it to someone from the People Ops team!
