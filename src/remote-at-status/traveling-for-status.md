@@ -2,15 +2,15 @@
 
 Connecting with people in person is such an essential part of the remote working experience at Status. Magic happens when people get together. 
 
-![image](team-gallery.jpg)
+![image](/src/images/team-gallery.jpg)
 
 Here you'll find helpful information to make your travel abroad experience more efficient while being compliant and accountable to project resources. These guidelines apply to anyone traveling for or sponsored by Status away from their usual working location. 
 
 Some of these points might not apply to offsites as they're usually centrally organized with their particular budget.
 
-Your travel budget comes from your team's budget. If you don't have previous approval or haven't posted your travel plans yet, check out [Events and meetups]("") before booking your trip. 
+Your travel budget comes from your team's budget. If you don't have previous approval or haven't posted your travel plans yet, check out [Events and meetups](/src/perks/events-and-meetups.md) before booking your trip. 
 
-If the travel falls outside your team's budget, talk with your team lead about the event or meeting you're attending and [create a travel request]("").
+If the travel falls outside your team's budget, talk with your team lead about the event or meeting you're attending and [create a travel request](/src/perks/events-and-meetups.md).
 
 
 > COVID DISCLAIMER: COVID restrictions make travel more difficult, but it's still possible to make it to some places. Before traveling abroad:
@@ -53,7 +53,7 @@ Whether using a company card or requesting reimbursements, you're responsible fo
 
 ## 🛩 Getting there
 
-The standard travel booking process uses [TravelPerk]("") for flights, trains, and accommodation, including Airbnbs. You can create individual or group itineraries. TravelPerk helps find better rates, provides support for travel changes and cancellations, and you can still pay with a personal card, if you want, and expense it. 
+The standard travel booking process uses [TravelPerk](/src/remote-at-status/how-to-use-travelperk.md) for flights, trains, and accommodation, including Airbnbs. You can create individual or group itineraries. TravelPerk helps find better rates, provides support for travel changes and cancellations, and you can still pay with a personal card, if you want, and expense it. 
 
 You can use your car to drive to the event or meeting location. In this case, you can expense the gas costs. 
 
@@ -86,7 +86,7 @@ Airbnbs are more practical for spending quality time together and setting a cowo
 > 💡 Pro-tip: it's a good practice to ask for wifi speed before confirming a booking by requesting a fast.com screenshot from the apartment.
 
 
-If you're staying in a hotel or traveling with other Status contributors and need a place to work from, check out [Trooptravel]("https://discuss.status.im/t/finding-meetup-locations/2218") to get a sense of where it would be possible to meet. You can also find modern cafés with great wifi checking reviews from Google Maps, TripAdvisor, or [Workfrom]("https://workfrom.co").
+If you're staying in a hotel or traveling with other Status contributors and need a place to work from, check out [Trooptravel](https://discuss.status.im/t/finding-meetup-locations/2218) to get a sense of where it would be possible to meet. You can also find modern cafés with great wifi checking reviews from Google Maps, TripAdvisor, or [Workfrom](https://workfrom.co).
 
 
 > 💡 Pro-tip: more often than not, we use the same devices with the same chargers, which all end mixed up together. Tag yours! And don't forget about the power adapter. Also, check your roaming plans. Alternatively, there are international prepaid sim cards you can purchase online to stay connected when there's no wifi access. 
@@ -103,16 +103,23 @@ In case of an emergency (hopefully, there isn't any), we'll use the emergency in
 
 Some insurers specializing in global travel insurance:
 
-* [World Nomads]("https://worldnomads.com")
-* [True Traveller (EU-focused)]("https://www.truetraveller.com")
-* [IMG (US-based)]("https://www.imglobal.com/travel-medical-insurance/patriot-travel-medical-insurance")
+* [World Nomads](https://worldnomads.com)
+* [True Traveller (EU-focused)](https://www.truetraveller.com)
+* [IMG (US-based)](https://www.imglobal.com/travel-medical-insurance/patriot-travel-medical-insurance)
 
 International prepaid SIM cards:
 
-* [TravelSIM]("https://travelsim.com")
-* [Holafly]("https://holafly.com")
+* [TravelSIM](https://travelsim.com)
+* [Holafly](https://holafly.com)
 
 
 *****
 
-✍️ Contributing to this page: create a Github issue and assign it to someone from the People Ops team!
+## Related articles
+
+   * [Events and meetups](/src/perks/events-and-meetups.md)
+   * [TravelPerk](/src/remote-at-status/how-to-use-travelperk.md)
+
+*****
+
+✍️ **Contribute to this page!** create a Github issue and assign it to someone from the People Ops team!
