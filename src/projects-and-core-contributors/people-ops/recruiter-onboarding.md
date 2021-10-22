@@ -6,7 +6,7 @@
 
 Welome to Status.im & the the magical world of web3
 
-Great to have you in the team! 
+Great to have you in the team! ✌️
 
 [//]: <> (Talent Team Org with discord handles)
 
