@@ -10,7 +10,7 @@ Here's how to use TravelPerk, the travel booking platform for everything you nee
 
 ## Account setup
 
-You'll need to head to the TravelPerk web app and sign in using your Status email to get started. 
+You'll need to head to the [TravelPerk](https://app.travelperk.com/) web app and sign in using your Status email to get started. 
 
 ![TravelPerk login](/src/images/travelperk-login.png)
 
