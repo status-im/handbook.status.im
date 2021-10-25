@@ -1,4 +1,4 @@
-# ⚡️ Considerations and resources for a healthy home office
+# ⚡️ Health considerations and resources for your home office
 
 We spend almost as many hours working as sleeping. Having great working habits is as essential as getting a good night's sleep, and more often than not, they go hand in hand.
 
