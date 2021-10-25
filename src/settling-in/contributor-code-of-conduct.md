@@ -104,4 +104,7 @@ Depending on the severity of the misconduct, this may be a formal warning, throu
 ## License
 
 Status.im is a Free Software project, and the individuals and communities around it are its custodians. We choose not to exclude others from using, understanding, modifying, and distributing our work. In doing so, we trust one another to act in the best interests of the broader human community that Status.im is designed to serve. This license holds the developers to account in the knowledge that the software is a common trust and that it is a privilege and a responsibility to continue to develop it.
-The Status Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license and has been adapted from the Ubuntu Code of Conduct v2.0, and the Contributor Covenant v1.4. You may re-use it for your project and modify it as you wish. Please allow others to use your modifications and give credit to Ubuntu, Contributor Covenant, and Status.
+
+*****
+
+*The Status Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license and has been adapted from the Ubuntu Code of Conduct v2.0, and the Contributor Covenant v1.4. You may re-use it for your project and modify it as you wish. Please allow others to use your modifications and give credit to Ubuntu, Contributor Covenant, and Status*
