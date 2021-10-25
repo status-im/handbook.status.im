@@ -107,4 +107,4 @@ Status.im is a Free Software project, and the individuals and communities around
 
 *****
 
-*The Status Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license and has been adapted from the Ubuntu Code of Conduct v2.0, and the Contributor Covenant v1.4. You may re-use it for your project and modify it as you wish. Please allow others to use your modifications and give credit to Ubuntu, Contributor Covenant, and Status*
+*The Status Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license and has been adapted from the Ubuntu Code of Conduct v2.0, and the Contributor Covenant v1.4. You may re-use it for your project and modify it as you wish. Please allow others to use your modifications and give credit to Ubuntu, Contributor Covenant, and Status.*
