@@ -17,6 +17,7 @@ Status will sponsor and cover the costs for any online or in-person event with a
    * Internal events and meetups to prepare a product/project launch or work together.
    * Moderating or speaking opportunities related to Status.
 
+> ✨ Remember that when you're in an event, you're representing Status and everyone who shares our values. Don't forget that and spread the word! Who knows who's listening and might contribute or join Status thanks to you :)
 
 ## How to communicate an event
 
@@ -32,11 +33,9 @@ As per our transparency and resourcefulness principles, we ask everyone to post 
 
 Here's a event [post example]("https://discuss.status.im/t/ethdenver-feb-15-17-2019/922").
 
-If it's a relevant event but falls outside your team's budget, send Finance a budget request with costs estimates and linking to the Discuss post for approval.
+## If it falls outside your team's budget
 
-
-> ✨ Remember that when you're in an event, you're representing Status and everyone who shares our values. Don't forget that and spread the word! Who knows who's listening and might contribute or join Status thanks to you :)
-
+Submit the request in the #travel-requests channel and tag (as cc) your team lead. From there, your team lead can give a simple 👍 to confirm the request makes sense or ask additional questions; and People Ops & Finance can ask any necessary questions or suggest adjustments.
 
 ## Related articles
 
