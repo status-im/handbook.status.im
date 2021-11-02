@@ -1,7 +1,5 @@
 # Expense reimbursements
 
-![alt text](https://images.unsplash.com/photo-1521540216272-a50305cd4421?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=611185f92103f088fb8dfb682f810e19)
-
 ## How to get reimbursed for expenses?
 
 You can request a reimbursement for expenses incurred on behalf of Status during the project's development. You can read about some of these expenses at:
@@ -52,7 +50,7 @@ Go to the `Expense` tab on either the web or mobile apps to upload expenses manu
 
 ![expensify-expenses-expenses](/src/images/expensify-expenses-expenses.png)
 
-> ⚠️ You **must always** need to **submit a receipt with each expense** you log. Make sure to take photos or keep digital receipts handy - missing receipts might result in your reimbursements not being approved. We understand that in some rare cases, this is not possible. When not possible, please provide as much info as possible and why no receipt is possible.
+> ⚠️ You **always need to submit a receipt with each expense you log.** Make sure to take photos or keep digital receipts handy - missing receipts might result in your reimbursements not being approved. We understand that in some rare cases, this is not possible. When not possible, please provide as much info as possible and why no receipt is possible.
 
 ### Submitting an expense report for approval
 
