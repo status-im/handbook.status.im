@@ -10,21 +10,6 @@ Here's a sample of how invoices should look, as well as all the appropriate data
    * Supplier’s tax registration number (if applicable);
    * Supplier’s telephone number, contact person and email address (optional);
    * Payment information (optional).
-## Content Information
-   * The word INVOICE or CREDIT NOTE or DEBIT NOTE (*);
-   * Invoice/note number (must be unique) (*);
-   * Invoice/note date (dd/mm/yyyy) (*);
-   * Due date (dd/mm/yyyy) (*);
-   * Payment terms (optional);
-   * Currency (*);
-   * Specification of goods and/or services delivered (*);
-   * Total net amount (if no taxes are applicable) (*).
-**If taxes are applicable**
-   * Tax amount (*);
-   * If multiple taxes are applicable, the tax rate for every net amount should be specified (*);
-   * Total payable amount (*).
-
-*/* Mandatory fields.*
 
 ## Status Information
    * Status legal entity and invoicing address (*).
@@ -62,6 +47,22 @@ Am Zirkus 2,
 Germany
 
 USt-IdNr: DE317300297
+
+## Content Information
+   * The word INVOICE or CREDIT NOTE or DEBIT NOTE (*);
+   * Invoice/note number (must be unique) (*);
+   * Invoice/note date (dd/mm/yyyy) (*);
+   * Due date (dd/mm/yyyy) (*);
+   * Payment terms (optional);
+   * Currency (*);
+   * Specification of goods and/or services delivered (*);
+   * Total net amount (if no taxes are applicable) (*).
+**If taxes are applicable**
+   * Tax amount (*);
+   * If multiple taxes are applicable, the tax rate for every net amount should be specified (*);
+   * Total payable amount (*).
+
+*/* Mandatory fields.*
 
 *****
 
