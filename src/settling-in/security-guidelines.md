@@ -36,7 +36,7 @@ Here's Corey's Status Learn-Up session about [hardware wallets and best practice
 
 Our password manager is [Bitwarden](https://bitwarden.com/). All organizational passwords should be kept and shared here. So if you plan to store a Status related password, or get access to platforms that require username/passwords/2fa, then it should all be shared using Bitwarden.
 
-You can request an invite from @Terry. By signing up with the organization, you get the premium features and sign up with any email you like. That way, if you ever leave Status, you can take your password manager secrets with you, and you only lose access to Status related items.
+You can request an invite in #people-ops. By signing up with the organization, you get the premium features and sign up with any email you like. That way, if you ever leave Status, you can take your password manager secrets with you, and you only lose access to Status related items.
 
 ## Security team
 
