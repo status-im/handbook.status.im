@@ -1,35 +1,37 @@
-# 🖥 Workspace, computers, and devices
+# 🖥 Computers and devices
 
-Having the proper setup is fundamental to ensure you can work comfortably and avoid getting into long-standing consequences. Since we're all working remotely, you can choose what suits you best within a budget. If you're a core contributor at Status, we'll provide you with the tools required to succeed in your role during your onboarding. 
+Having the proper setup is fundamental to ensuring you can work comfortably. Since we're all working remotely, you can choose what suits you best within a budget. If you're a core contributor at Status, we'll provide you with the tools required to succeed in your role during your onboarding. 
 
-Here you'll find helpful information to set yourself up with the devices and home office equipment you need.
+Here you'll find helpful information to set yourself up with the computers and devices you need.
 
 ## ☑️ Pre-approved equipment
 
-All core contributors have a list of pre-approved workspace and equipment budgets. That means you do not need prior approval from Finance to expense up to the pre-approved amount. We defined the amounts to cover a range of options, so you will stay below that budget in most cases. When that happens, note that pre-approved amounts aren't "balances," and you can't spend the difference for other stuff.
+All core contributors have a list of pre-approved equipment budgets previously considered within their team budgets. That means you do not need prior approval from Finance to expense up to the pre-approved amount. Let your team lead know about your equipment purchasing plans. Follow the instructions below to get your computer and other devices.
 
-The standard setup for everyone includes a laptop, a display, a desk, and an ergonomic chair. You might also need additional phones or laptops for business or testing purposes which you can also request reimbursement. 
+The standard setup for everyone includes a laptop, headphones, a Keycard, a Yubikey, and a Ledger. 
 
-Before purchasing anything, check if there's already a suitable item in our [inventory](https://docs.google.com/spreadsheets/d/1A2jqn3Ch-zDyHFRnqMaoWwVHKBAPgH2p4sgEWk7Jwyo/edit?ts=5c2cbe52#gid=0). Also, consider refurbished devices and purchasing in trusted secondary markets for testing phones or other things that make sense. 
+We defined the amounts to cover a range of options, so you will stay below that budget in most cases. When that happens, note that pre-approved amounts aren't "balances," and you can't spend the difference for other stuff.
 
-   * Laptop: 2000 EUR
-   * External monitor: 500 EUR
-   * Desk and ergonomic chair: 600 EUR
-   * Mic and headphones: 100 EUR
-   * Testing phones: 200 EUR
+   * Laptop: up to 2000 EUR
+   * Mic and headphones: up to 100 EUR
    * Keycard: ping @guylouis to get a code 
+   * Yubikey: you can reimburse one
+   * Ledger: you can reimburse one
 
-If your workspace and equipment needs fall outside the pre-approved budgets, [create a budget request]() for approval. For additional equipment, check with your team lead, then add the approval details in your reimbursement. Some examples of other equipment:
+Check beforehand if there's already a suitable item in our [inventory](https://docs.google.com/spreadsheets/d/1A2jqn3Ch-zDyHFRnqMaoWwVHKBAPgH2p4sgEWk7Jwyo/edit?ts=5c2cbe52#gid=0). Also, consider refurbished devices and purchasing in trusted secondary markets for things that make sense. 
 
+For additional funds per item or other equipment, check with your team lead, and add the approval details to your reimbursement. If your equipment needs fall outside your team's budget, you can [request funds](/src/finance/request-funds.md) for approval. Some examples of other equipment:
+
+   * Testing phones for engineering roles
    * A printer for an ops role
    * A digital sketchpad for a design role
    * A business phone for a biz dev role
 
 > ℹ️ If you're unsure whether or not this applies to you, ping People Ops. We occasionally have loan assets available to all contributors. 
 
-## 🎁 How to get your workspace equipment and devices
+## 🎁 How to get your computers and devices
 
-   1. Let People Ops know the devices you will purchase two weeks before your start date, during your onboarding, or when you need them. 
+   1. Let your team lead and People Ops know the devices you will purchase two weeks before your start date, during your onboarding, or when you need them. 
    2. Choose official or trusted vendors to buy your equipment.
    3. Go to your `profile > assets` in BambooHR and `Add assets,` filling all device information.
    4. Once registered, request a refund by adding the expense to Expensify and your next invoice.
@@ -60,7 +62,7 @@ If your workspace and equipment needs fall outside the pre-approved budgets, [cr
 
 ## Related articles
 
-   * [How to get reimbursed](/src/finance/how-to-get-reimbursed.md)
+   * [How to get reimbursed](/src/finance/expense-reimbursements.md)
 
 
 *****
