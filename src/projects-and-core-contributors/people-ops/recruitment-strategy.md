@@ -1,69 +1,77 @@
-[//]: <> (Title)
+# Recruitment Strategy 2022 @ Status.im 🚀 
 
-# Recruitment Strategy 2022 @ Status.im
+The purpose of this Recruitment Strategy is essentially planning to reach the growth and retension goals for 2020 using by 
 
-[//]: <> (Intro)
+[//]: <> (Where do we wanna be)
+## Goals
 
-Welome to Status.im & the the magical world of web3
-
-Great to have you in the team! 
-
-[//]: <> (Recruitment objectives for 2022)
-
-Recruitment Objectives for 2022 @ Status.im
-- Growth
-  - Budget (lump sum, specific for each department/team/role?)
-  - Where
+### Growth
+  - How much are we growing?
+  - Where are we growing?
+  - Do we have a budget? If so, is it a lump sum, specific for each department/team/role?
   - Try to break the total number into percentages across deparments & teams
-  - How can we split these to not overburden the team and get the best out of each person
-- Retension
-  - ...
-  - ...
-  - ...
+  - How many hires can each team handle, how much time can leads/team contribute to interviews & onboarding to ensure succesful longterm hires.
+  - How can we split these to not overburden the recruitment team and get the best out of each person
 
-[//]: <> (Recruitment challenges)
+### Retension
+  - Onboarding, is it consistent, enough support, we need to collect feedback from teams & contributors (past & present)
+  - Development, how much development can we offer & what does/will it look like
+  - Career paths, what does this look like, traditional or moving across different projects
+  - Salary reviews, how often, is there a process, what's the history
 
-Historical recruitment challenges @ Status.im (real/percieved from recrutiment & hiring teams)
-- .
-- .
+[//]: <> (Problem)
+
+## Historical recruitment challenges @ Status.im (real/percieved from recrutiment & hiring teams)
+- We are growing our tech team within a very competitive market
+- We use very in demand skills
+- Work in a niche industry, slowly growing so we need a plan
+- We have a relatively low number of quality inbound applications
+- Attrition?
+- Lifespan of contributors?
 - .
 - .
 - .
 - .
 
-[//]: <> (Background/historical data)
-
-Background/historical data on hiring
+[//]: <> (Data)
+## Background/historical data on hiring
 - Recruitment success in terms of percentages (maybe show a rough breakdown of pipeline)
 - Growth vs. crypto industry vs wider tech industry 
 - Retention vs. crypto industry & wider tech industry 
 - Problem areas
 - Solutions to problems
 
-[//]: <> (Current recruitment processes)
+<img width="1037" alt="Screenshot 2021-11-03 at 17 25 17" src="https://user-images.githubusercontent.com/32337207/140152721-4750d4e9-8ef1-48ea-b0f2-e452df1fec16.png">
 
+[//]: <> (Present)
+
+## Current recruitment processes
 - Process vs. crypto industry vs. wider tech industry
-- Areas of possible improvement
+- Individual teams (Tech, Design, Marketing, ect.)
+  - Identify areas of strength
+  - Identify areas of improvement
 
-[//]: <> (Feedback from hiring teams)
+## Feedback from hiring teams
+- Quality of candidates, speed, do they see recrutiment as a help or hinderence (areas of improvement)
+  - Important to get feedback from teams
+  - Can be specific of general feedback
+  - If they provide some solutions that's even better
 
-- Important to get feedback from teams
-- Can be specific of general feedback
-- If they provide some solutions that's even better
+[//]: <> (Future needed to hit goals)
 
-[//]: <> (Improvements Recruitment @ Status)
+## Improvements Recruitment @ Status
 
-- Priority 1
+### Priority 1
   - ...
   - ...
   - ...   
-- Priority 2
+### Priority 2
   - ...
   - ...
   - ...    
-- Priority 3
+### Priority 3
   - ...
   - ...
   - ...    
 
-[//]: <> (Extra???)
+[//]: <> (Action points/plan to get this all into place)
