@@ -2,8 +2,6 @@
 
 # Recruiter Onboarding
 
-[//]: <> (Intro)
-
 Welome to Status.im & the the magical world of web3
 
 As a contributor you'll be helping find and attract talent across a range of projects & teams, so to help you overcome the learning curve here is a general guide of how we're currently working together and an overview of us.
@@ -35,28 +33,12 @@ The Design team are constantly helping to create the tools that'll lead to a mor
 
 ### Desktop
 
-[//]: <> (Overview of how Status came about & where we are now, similar to pitch we give candidates)
+## Overview of how Status (How we were formed, where we are now, where we're looking to go - Past, Present & Future)
 
+[//]: <> (This is what Carl told me - So both Carl & Jarrad have been working together for about a decade on various businesses, prior to Status they ran a digital marketing firm and a software distribution business. It was actually through targeted advertising that they were exposed to how data is bought and sold, and how invasive it is, which spurred their interest in privacy-preserving technologies)
 
-
-[//]: <> (Recruitment @ Status)
-
-
-
-[//]: <> (High level overview process from start to finish)
-
-
-
-[//]: <> (Recruitment Process Detailed)
-
-
-
-[//]: <> (Tools/Platforms)
-
-
-
-[//]: <> (Challenges so far)
-
-
-
-[//]: <> (Extra???)
+## High level overview process from start to finish
+## Recruitment Process Detailed
+## Tools/Platforms
+## Challenges so far
+## Extra?
