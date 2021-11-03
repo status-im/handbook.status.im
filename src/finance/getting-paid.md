@@ -1,6 +1,6 @@
 # 💰 Getting paid
 
-The current contributor payments process uses PDF invoices sent to the Finance team to get paid. Here you'll find helpful information about this process' specific deadlines and formats requirements to meet to get compensated correctly on time.
+As a Contributor, you need to send your PDF invoice to the Billing inbox. Here you'll find helpful information about deadlines, formats and other requirements to get compensated correctly on time.
 
 ## Invoices due date
 
@@ -8,7 +8,7 @@ Send your invoice in PDF format to `billing@status.im`, latest on the 15th. Your
 
 ## What to include
 
-You need to include your total expenses per category in your invoice (and these should be submitted separately via Expensify). Check out [expense reimburesements](/src/finance/expense-reimbursements.md/) for more details on this topic.
+You need to include your total expenses per category in your invoice (and these should be submitted separately via Expensify). Check out [expense reimbursements](/src/finance/expense-reimbursements.md/) for more details on this topic.
 
 Your invoice should include:
    * Your legal name and address as per your agreement.
@@ -18,6 +18,7 @@ Your invoice should include:
    * Status legal entity with which you have the services agreement.
    * The date range of the invoicing period according to your agreement (i.e., "March 1 to March 31").
    * Description of the service rendered or reference to your contract.
+   * Total per category for expense reimbursements being claimed as per the [expense reimbursements guide](/src/finance/expense-reimbursements.md/).
    * According to your agreement, the full fee and the fiat currency (in CHF, USD, EUR, or other).
    * Your contributor number as per your Bamboo profile.
 
@@ -34,7 +35,7 @@ There are exceptional cases where another legal entity applies. Please use the c
 
 ### Bank and Wallet Details
 
-Please maintain your details on your Bamboo profile if you have one. For simplicity, we allow only the indication of one wallet and one bank account (if you have intermediary accounts, you should state it in the Notes of the Bank Information section). You can edit it directly if you want to change the % paid in ETH, DAI, or SNT. Once you save it, it will send an approval request to the Finance team --the reason is so that we get a notification that something's changed and can update our payment records timely. 
+Please maintain your details on your Bamboo profile if you have one. For simplicity, we only allow the indication of one wallet and one bank account (if you have intermediary accounts, please use the appropriate fields of the Bank Information section). You can edit it directly if you want to change the % paid in ETH, DAI, or SNT. Once you save it, it will send an approval request to the Finance team —the reason is so that we get a notification that something's changed and can update our payment records timely.
 
 Only after we confirm the approval will your changes be reflected in your Bamboo profile, and you can then change your payment split preferences again.
 
