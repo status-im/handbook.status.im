@@ -11,7 +11,12 @@ Here you'll find helpful links to resources to protect yourself and the organiza
 
 ## Ask for help
 
-Above all else, never be afraid to ask for help, ask questions, or report security concerns. Until we have an official infrastructure for support tickets, drop by #security-helpdesk to get help.
+Above all else, never be afraid to ask for help, ask questions, or report security concerns. Until we have an official infrastructure for support tickets, drop by:
+
+   * #security-helpdesk to get help.
+   * #security for more broad, public questions.
+   * #security-internal for anything that is more private.
+   * Drop an email to `security@status.im` if none of the above channels fit.
 
 ## Best practices checklists
 
@@ -23,15 +28,23 @@ Phishing attacks are the most common: discord bots, telegram messages, and email
 
 ## Hardware
 
-Check out this [list](https://notes.status.im/zkr20eWFTwGD92xixGX2CA) of essential hardware.
+Check out this [list](https://notes.status.im/zkr20eWFTwGD92xixGX2CA) of essential hardware. Core contributors can expense hardware security keys (yubikeys) and should be used for Github, Gsuite, and Bitwarden.
+
+Here's Corey's Status Learn-Up session about [hardware wallets and best practices](https://www.youtube.com/watch?v=9nzqntuFR44&ab_channel=HashingItOut).
 
 ## Password manager
 
-Our password manager is Bitwarden; everyone is free to use it to store and secure passwords. You can request an invite from @terry.
+Our password manager is [Bitwarden](https://bitwarden.com/). All organizational passwords should be kept and shared here. So if you plan to store a Status related password, or get access to platforms that require username/passwords/2fa, then it should all be shared using Bitwarden.
+
+You can request an invite from @Terry. By signing up with the organization, you get the premium features and sign up with any email you like. That way, if you ever leave Status, you can take your password manager secrets with you, and you only lose access to Status related items.
 
 ## Security team
 
-Learn more about Security @ Status [here](https://status.im/security/).
+Learn more about Security @ Status at:
+
+   * [Status Security](https://status.im/security/)
+   * [status-im/status-security](https://github.com/status-im/status-security)
+   * [status-im/security-internal](https://github.com/status-im/security-internal)
 
 
 *****
