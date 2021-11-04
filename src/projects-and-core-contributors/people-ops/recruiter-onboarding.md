@@ -42,3 +42,18 @@ The Design team are constantly helping to create the tools that'll lead to a mor
 ## Tools/Platforms
 ## Challenges so far
 ## Extra?
+
+### For some self learning, how about browsing the following:
+
+- A lot of tech content on [weekinethereumnews](https://weekinethereumnews.com/) but good to keep half an eye on 😁 
+- [CrypcurrencyJobs](https://cryptocurrencyjobs.co/) is a seful for seeing other projects and roles in the space (we use this site for most of our job posting)
+- You can usually find interesting/useful content on [medium](https://medium.com/)
+- [Web3 Foundation](https://web3.foundation/) has good reads
+- Also, follow the big names in blockchain on twitter and dig into any LI groups in the space (although the members are usually hobbyists / recruiters 🤣 ) 
+- Reddit, github, Discord all things crypto/blockchain
+- All the [status website](https://status.im/) / [blogs](https://our.status.im/) you can read to familiarise yourself with what we're doing including the latest town halls on [Youtube](https://www.youtube.com/statusim)
+- This is a good place to review [what we offer](https://people-ops.status.im/) our contributors: 
+- Also: https://ethereum.org/en/community/#upcoming-events 
+- Lots of great intros [here](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+- Ethereum [use cases](https://www.gemini.com/cryptopedia/ethereum-smart-contracts-tokens-use-cases#section-decentralized-autonomous-organizations) and more
+- You can also subscribe to [cryptopedia](https://www.gemini.com/cryptopedia)  🙌 
