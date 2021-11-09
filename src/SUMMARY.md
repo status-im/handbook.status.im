@@ -21,6 +21,7 @@
 - [Contributing to Status](./working-here/index.md)
      - [Traveling for Status](src/working-here/traveling-for-status.md)
           - [How to use TravelPerk](src/working-here/how-to-use-travelperk.md)
+     - [Immigration and relocation](src/working-here/immigration-relocation.md)
 - [Your most important role](./hiring/index.md)
 - [Finance](./team-leads/index.md)
      - [Getting paid](src/finance/getting-paid.md)
