@@ -14,7 +14,7 @@ We defined the amounts to cover a range of options, so you will stay below that 
 
    * Laptop: up to 2000 EUR
    * Mic and headphones: up to 100 EUR
-   * Keycard: ping @guylouis to get a code 
+   * Keycard: ping the #keycard channel to get a code 
    * Yubikey: you can reimburse one
    * Ledger: you can reimburse one
 
