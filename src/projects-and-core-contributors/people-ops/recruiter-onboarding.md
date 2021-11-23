@@ -10,38 +10,59 @@ Great to have you in the team! ✌️
 
 ## Talent Team Org
 
-<img width="723" alt="Screenshot 2021-11-03 at 15 30 14" src="https://user-images.githubusercontent.com/32337207/140092177-9d5cafb5-0622-49f6-9dae-3828aa919c19.png">
+So it's a flat structure & for reporting purposes Carl oversees the department, however he's happy for us to manage ourselves and our own workloads.
 
-[//]: <> (Overview of Teams/Projects - Short overview on each team, what they are responsible for, what projects they're working on, who's in the team with discord handles & the discord channel to contact them on)
+<img width="1137" alt="Screenshot 2021-11-23 at 14 08 54" src="https://user-images.githubusercontent.com/32337207/143039240-5e2f373e-e96c-4926-aaa8-054f32daeb17.png">
+
+Angel
+Pepper
+Alvin
+Terry
+Monica
+
 
 ## Overview of Teams/Projects
+[//]: <> (Overview of Teams/Projects - Short overview on each team, what they are responsible for, what projects they're working on, who's in the team with discord handles & the discord channel to contact them on)
+
+
+Here are some of the teams you may work with, some have their own team page where they explain more about the projects. We've added a short explanation of what the teams do but feel free to read more into them by looking through the links or just ping them on discord 🤙
 
 ### [Nim:](https://nimbus.team/)
-Nimbus is a client implementation for both Ethereum 1 and Ethereum 2 that strives to be as lightweight as possible in terms of resources used. This allows it to perform well on embedded systems, resource-restricted devices -- including Raspberry Pis and mobile devices -- and multi-purpose servers.
+Nimbus is a research team that focuses on developing an Ethereum client and library targeting both Ethereum and the upcoming, proof-of-stake-based ETH2. Nimbus will be designed to perform well on embedded, mobile and generally resource-restricted devices. The extensible, configurable, and modular design of Nimbus will make it production ready for Web 3.0 and will ensure that it can be supported and maintained across all goals of Ethereum 2.0.
 
 ### [Vac:](https://vac.dev/)
-Vac is a modular, peer-to-peer messaging stack for private, secure, censorship resistant communication
+Vac is a team that focuses on building a communications tool with security, censorship resistance and privacy in mind. It's built in a modular way, with peer-to-peer messaging stack for private, secure, censorship resistant comms. For more infor check out this [blog post](https://vac.dev/waku-v2-ethereum-messaging)
 
 ### Dagger
+...
 
-### Keycard 
+### Keycard
+...
 
-### Blockchain Infrastructure 
+### Blockchain Infrastructure
+This team focus on consensus research
 
 ### [Design:](https://design.status.im/) 
 The Design team are constantly helping to create the tools that'll lead to a more open and equitable Internet for us all. They work in an unconventional way, and we're always trying to improve. Valuing autonomy and meritocracy and can be found all over the world, designing decentralization into every part of life.
 
+### Mobile
+...
+
 ### Desktop
+...
 
-## Overview of how Status (How we were formed, where we are now, where we're looking to go - Past, Present & Future)
+Marketing
+...
 
-[//]: <> (This is what Carl told me - So both Carl & Jarrad have been working together for about a decade on various businesses, prior to Status they ran a digital marketing firm and a software distribution business. It was actually through targeted advertising that they were exposed to how data is bought and sold, and how invasive it is, which spurred their interest in privacy-preserving technologies)
+## Overview of how Status
 
-## High level overview process from start to finish
-## Recruitment Process Detailed
+Carl & Jarrad have been working together for about a decade on various businesses, prior to Status they ran a digital marketing firm and a software distribution business. It was actually through targeted advertising that they were exposed to how data is bought and sold, and how invasive it is, which spurred their interest in privacy-preserving technologies.
+
+There are several early interviews & talks on our [youtube](https://www.youtube.com/c/Statusim/videos?view=0&sort=da&flow=grid) channel and plenty of other content including our company stand-ups. Do take a look through [State of Us](https://our.status.im/state-of-us/)
+
+## Recruitment Process (High level overview process from start to finish)
+## Recruitment Process Detailed (Not sure if this is neccesary?)
 ## Tools/Platforms
-## Challenges so far
-## Extra?
 
 ### For some self learning, how about browsing the following:
 
