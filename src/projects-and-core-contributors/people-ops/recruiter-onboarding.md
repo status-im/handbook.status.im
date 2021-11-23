@@ -42,7 +42,7 @@ Vac is a team that focuses on building a communications tool with security, cens
 ...
 
 ### Blockchain Infrastructure
-This team focus on consensus research
+They are building the foundation used by other projects at the [Status Network](https://statusnetwork.com/). They are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. They're cuttently in a research phase, working with models and simulations & plan to move onto implementing the research in the future.
 
 ### [Design:](https://design.status.im/) 
 The Design team are constantly helping to create the tools that'll lead to a more open and equitable Internet for us all. They work in an unconventional way, and we're always trying to improve. Valuing autonomy and meritocracy and can be found all over the world, designing decentralization into every part of life.
@@ -53,8 +53,8 @@ The Design team are constantly helping to create the tools that'll lead to a mor
 ### Desktop
 ...
 
-Marketing
-...
+### Marketing
+Marketing work closely with our engineering, product and research teams to help support the Status App & Status Network’s marketing efforts. This is done across both the mobile and desktop applications as well as the [Status Network](https://statusnetwork.com/) is all about help to educate developers, and users on the protocols, infrastructure, and use-cases.
 
 ## Overview of how Status
 
