@@ -14,11 +14,13 @@ So it's a flat structure & for reporting purposes Carl oversees the department, 
 
 <img width="1137" alt="Screenshot 2021-11-23 at 14 08 54" src="https://user-images.githubusercontent.com/32337207/143039240-5e2f373e-e96c-4926-aaa8-054f32daeb17.png">
 
-Angel
-Pepper
-Alvin
-Terry
-Monica
+A little bit about each of us 👀
+
+- Angel: Loves basketball, romcoms & rum
+- Pepper: 
+- Alvin: 
+- Terry: 
+- Monica: 
 
 
 ## Overview of Teams/Projects
