@@ -2,7 +2,7 @@
 
 # Recruiter Onboarding
 
-Welome to Status.im & the the magical world of web3
+Welome to Status.im & the the magical world of wΞb3
 
 As a contributor you'll be helping find and attract talent across a range of projects & teams, so to help you overcome the learning curve here is a general guide of how we're currently working together and an overview of us.
 
