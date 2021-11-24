@@ -2,11 +2,13 @@
 
 # Recruiter Onboarding
 
-Welome to Status.im & the the magical world of wΞb3
+Welome to Status.im & the the magical world of web3 & Ξthereum 
 
 As a contributor you'll be helping find and attract talent across a range of projects & teams, so to help you overcome the learning curve here is a general guide of how we're currently working together and an overview of us.
 
 Great to have you in the team! ✌️
+
+
 
 ## Talent Team Org
 
@@ -16,16 +18,30 @@ So it's a flat structure & for reporting purposes Carl oversees the department, 
 
 A little bit about each of us 👀
 
-- Angel: Loves basketball, romcoms & rum
-- Pepper: 
-- Alvin: 
-- Terry: 
-- Monica: 
+- [Angel](https://www.linkedin.com/in/angelrgutierrez/): <br>
+❤️ [Basketball](https://c.tenor.com/wazb7Xpzs6IAAAAC/stephen-curry-123.gif), [romcoms](https://i.gifer.com/58by.gif), [anime](https://thumbs.gfycat.com/AnyFlashyCurlew-size_restricted.gif), [rum](https://c.tenor.com/89IJ1z8sO3UAAAAC/no-alcohol-wheres-the-alcohol.gif), [pineapple on pizza](https://i.imgur.com/mENd5MI.jpg) & [NFT's](https://pbs.twimg.com/media/FCT-M5WWEAkjiha.jpg) <br>
+😠 [orange chocolate & fish on pizza](https://c.tenor.com/v_kl21xCfcYAAAAC/just-say-no-deny.gif) <br>
+
+- Pepper:<br>
+❤️ ...
+😠 ...
+
+- Alvin:<br>
+❤️ ...
+😠 ...
+
+- Terry:<br>
+❤️ ...
+😠 ...
+
+- Monica:<br>
+❤️ ...
+😠 ...
+
 
 
 ## Overview of Teams/Projects
 [//]: <> (Overview of Teams/Projects - Short overview on each team, what they are responsible for, what projects they're working on, who's in the team with discord handles & the discord channel to contact them on)
-
 
 Here are some of the teams you may work with, some have their own team page where they explain more about the projects. We've added a short explanation of what the teams do but feel free to read more into them by looking through the links or just ping them on discord 🤙
 
@@ -56,15 +72,45 @@ The Design team are constantly helping to create the tools that'll lead to a mor
 ### Marketing
 Marketing work closely with our engineering, product and research teams to help support the Status App & Status Network’s marketing efforts. This is done across both the mobile and desktop applications as well as the [Status Network](https://statusnetwork.com/) is all about help to educate developers, and users on the protocols, infrastructure, and use-cases.
 
+
+
 ## Overview of how Status
 
 Carl & Jarrad have been working together for about a decade on various businesses, prior to Status they ran a digital marketing firm and a software distribution business. It was actually through targeted advertising that they were exposed to how data is bought and sold, and how invasive it is, which spurred their interest in privacy-preserving technologies.
 
 There are several early interviews & talks on our [youtube](https://www.youtube.com/c/Statusim/videos?view=0&sort=da&flow=grid) channel and plenty of other content including our company stand-ups. Do take a look through [State of Us](https://our.status.im/state-of-us/)
 
+
+
 ## Recruitment Process (High level overview process from start to finish)
+
+- Team contacts you regarding a role
+- Double check with POps & Finance
+- Prepare Job Description 
+   - 
+- Post & advertise role _(you have a company card for advertising on platforms of your choice depending on the role)_
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
 ## Recruitment Process Detailed (Not sure if this is neccesary?)
+
+
+
+
 ## Tools/Platforms
+
+We use a variety of tools & platforms and encourage everyone to use their own preferances depending on the role that are being hired, this includes new job boards, platforms & tools that haven't been used before. Generally we keep all the platforms open [here](https://docs.google.com/spreadsheets/d/1G1Wy5EKeZX_c8zzA2TZ_NFw6UgdeEqoro2aSAieTHLQ/edit?usp=sharing) and edit them as we go
+
+Generally we like to work smart, meaning using platforms that will get the best results & attract the right candidates and that can be discussed with the hiring teams too as some have preferences.
+
+
 
 ### For some self learning, how about browsing the following:
 
