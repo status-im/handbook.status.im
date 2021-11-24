@@ -82,26 +82,97 @@ There are several early interviews & talks on our [youtube](https://www.youtube.
 
 
 
-## Recruitment Process (High level overview process from start to finish)
+## Recruitment Hiring workflow 
 
-- Team contacts you regarding a role
-- Double check with POps & Finance
-- Prepare Job Description 
-   - 
-- Post & advertise role _(you have a company card for advertising on platforms of your choice depending on the role)_
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+### Define Hiring Process and Job spec
+Partner with the hiring manager, create a ‘job setup’ doc (template) - this should lay out the strategy for hiring
+Tag other POps team members in the doc for input. 
+Save a copy in this folder (NB: it’s visible to all of Status)
+Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
+Let the rest of Status know what our plans are by posting on Discuss. Include:
+Why we’re hiring for the role
+An outline of the job spec
+Ask for feedback from CCs
+Mention the referral bonus for any referrals
+Tag as `People Ops` > `Hiring`
 
+### Job set up on Greenhouse
+- “Create a job” in Greenhouse 
+- Add urgency level and target start date
+- Configure “Job Setup” -> Scorecard, Interview Plan, Hiring Team etc.. to the role carefully
+- If using template from prior job, check the job setup and process is still relevant 
+- Ensure all hiring team members can see the scorecards (add permissions to individuals via “Hiring Team” in “job Setup”- basic ) 
+- Submit for People ops approval - once approved will appear on Status Jobs and by default, all jobs created and published in Greenhouse are also posted to:
+   - Glassdoor
+   - Indeed
+   - LinkedIn Limited
+   - Angel.co.
 
+### We use the following paid resources to market roles:
+LinkedIn
+Groups / your own profile
+We have two premium job slots which we can rotate based on priority
+Remember to create a tracking link in GH to direct applicants to the Status Jobs page for application
+Buying blocks of adverts / monthly subscriptions for unlimited posting on specific job boards 
+Can also experiment with other jobs boards and capture the info / review ROI from posting.
+Speak to Stef / Pepper re payment
+Any shared job board / recruitment related passwords should be stored in Bitwarden under ‘recruitment’ collection
+Double check with Hiring Manager for preference / relevant job boards 
 
-## Recruitment Process Detailed (Not sure if this is neccesary?)
+### Outreach & Sourcing 
+LinkedIn, Boolean/X-ray searches, GitHub, StackOverflow, Job boards, Social Media, Network, Articles, Developer / PL communities & Groups etc
+LinkedIn Recruiter - currently only one seat
+Marketing on paid job boards; once paid, send the invoice to billing@status.im and upload in Drive folder for our records (make sure that any invoice received meets this standard, or it will be rejected by Finance)
+Again, make sure all paid ads have a dedicated tracking link to monitor effectiveness
+Marketing on Social media - ping @Nickb for Status Twitter and Sacha (@0xmiel) for Nimbus Twitter- prompt teams to market the roles using their own accounts too
 
+### Interviews & Scheduling
+Set up initial prescreen using email template and calendly link via GH
+Submit your scorecard and tag hiring manager / share via discord channel to review
+Subsequent interviews to be scheduled via Greenhouse (or if the hiring manager prefers, use a Calendly link if they have one)
+Standard process 3-4 rounds (flexible to suit needs of role, tbd in job set up doc)
+Recruiter prescreen
+Hiring Team 
+Peer IV
+Project / Written test (not in every case)
+Carl/Jarrad
 
+### Candidate experience / tracking
+Move candidates to the relevant bin so pipeline can be easily understood at a glance from the job dashboard
+Aim to follow up on every application. Even if we don’t wish to proceed; generic reject email template is sufficient and can be edited/personalised if necessary 
+Make sure all stages of interview/evaluation have a scorecard completed (these are essential for offer approval stage)
+Ensure all verbal / written communication with a candidate is logged in GH “Activity Feed” for continuity and positive candidate experience. Capture email interaction using email alias in Bcc: maildrop@rose.greenhouse.io  This will identify the candidate using their email and copy the thread into “Activity Feed” for you.
+Communicate a ‘rejection’ with candidate in a timely manner via email or verbally, depending on stage of process 
+Give high level overview of progress in weekly team syncs, otherwise Greenhouse is the source of truth for latest updates
+Consider using text-based interviews via Discord as People Ops pre-screens to assess for remote work skills/communication
+
+### Communicating with hiring team 
+Open a group chat, e.g. POps <> Nimbus hiring and add the hiring team (exc. C&J)
+Keep in regular communication, updates, chasing feedback etc (frequency depends on urgency)
+For any discussion with C&J on hiring, do this in a shared channel (e.g. #ops) so all the team can follow along 
+Generally speaking, email is not checked regularly, so if it’s urgent, use Discord!
+
+### Offer approval
+Once the right candidate is found and the hiring team have given a green light on hiring, it’s time to submit an offer for approval in the #Ops channel. Here the proposed salary + SNT can be approved/adjusted by Carl/Ruslan. (example)
+Once approved you can verbally offer the candidate
+Follow up with an email to confirm the offer in writing (Cc Terry)  and request relevant information for Terry to draft their Services Agreement (example) 
+Also ping Terry with the following:
+Who this person will report to
+5-10 bullet points for the SA which outline the scope of work / responsibilities 
+
+### Contract signed (yay!) 
+Once the candidate has signed the SA, Terry will notify the Recruiter. Make sure you:
+“mark candidate as hired” in Greenhouse and export the data to BambooHR
+Make sure all hiring history data, audit trail, email correspondence, notes, feedback etc is on the record
+Communicate the good news with the hiring manager and confirm the start date once more
+Always ensure all hired candidates are marked as “private”. This will prevent them being able to see confidential material about themselves, if later added to GH as a Hiring Manager
+Take the job offline, close out any remaining active candidates (..unless hiring multiples! Create a new job ID in the existing job, keep open and continue hiring..)
+Terry to pick up onboarding from there
+If hire is a referral, please track successful hires in this spreadsheet and ping Jason 3 months after hire to pay out the SNT referral bonus
+
+### Retrospective 
+Put together a summary of learnings, outcomes, ROI on ad spend
+Suggest any process or hiring improvements
 
 
 ## Tools/Platforms
