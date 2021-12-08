@@ -90,20 +90,15 @@ Create a ‘[job setup](https://docs.google.com/document/d/1SxkdEvb8cA_ws2g9dP4k
 Tag other POps team members in the doc for input if necessary 
 Save a copy in this [folder](https://drive.google.com/drive/folders/1RoTZvxXCvPUYyKzZADPmRjzZxwNN1HqU?ths=true) (NB: it’s visible to all of Status)
 Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
-Let the rest of Status know what our plans are by posting on Discuss. Include:
-Why we’re hiring for the role
-An outline of the job spec
-Ask for feedback from CCs
-Mention the referral bonus for any referrals
-Tag as `People Ops` > `Hiring`
 
 ### Job set up on Greenhouse
-- “Create a job” in Greenhouse 
+- “Create a job” in Greenhouse
 - Add urgency level and target start date
 - Configure “Job Setup” -> Scorecard, Interview Plan, Hiring Team etc.. to the role carefully
-- If using template from prior job, check the job setup and process is still relevant 
-- Ensure all hiring team members can see the scorecards (add permissions to individuals via “Hiring Team” in “job Setup”- basic ) 
-- Submit for People ops approval - once approved will appear on Status Jobs and by default, all jobs created and published in Greenhouse are also posted to:
+- Edit this [template](https://app.greenhouse.io/get_started/hiring_plans/2055417/from_existing) to fit the new role
+- Ensure all hiring team members can see the scorecards (add permissions to individuals via “Hiring Team” in “job Setup”- basic) 
+- Toggle live to Status jobs
+- All jobs created and published in Greenhouse are also posted to:
    - Glassdoor
    - Indeed
    - LinkedIn Limited
