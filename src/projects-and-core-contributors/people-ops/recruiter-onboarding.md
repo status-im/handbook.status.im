@@ -97,8 +97,7 @@ Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
 - Configure “Job Setup” -> Scorecard, Interview Plan, Hiring Team etc.. to the role carefully
 - Edit this [template](https://app.greenhouse.io/get_started/hiring_plans/2055417/from_existing) to fit the new role
 - Ensure all hiring team members can see the scorecards (add permissions to individuals via “Hiring Team” in “job Setup”- basic) 
-- Toggle as "live" to Status jobs
-<img width="790" alt="Screenshot 2021-12-08 at 12 51 21" src="https://user-images.githubusercontent.com/32337207/145211311-acd61a0d-3e28-4c1a-9f5d-4277c29d6f71.png">
+- Toggle live to Status jobs
 - All jobs created and published in Greenhouse are also posted to:
    - Glassdoor
    - Indeed
@@ -107,10 +106,10 @@ Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
 
 ### We use the following paid resources to market roles:
 LinkedIn
-Groups / your own profile
-We have two premium job slots which we can rotate based on priority
-Remember to create a tracking link in GH to direct applicants to the Status Jobs page for application
-Buying blocks of adverts / monthly subscriptions for unlimited posting on specific job boards 
+Groups / your own profile. <br>
+We have two premium job slots which we can rotate based on priority, check in with the talent team. <br>
+Remember to create a tracking link in GH when marketing the job so original source can be captured upon their application. <br>
+Buying blocks of adverts / monthly subscriptions for unlimited posting on job boards. Please capture spend / new finds [here](https://docs.google.com/spreadsheets/d/1G1Wy5EKeZX_c8zzA2TZ_NFw6UgdeEqoro2aSAieTHLQ/edit#gid=0)
 Can also experiment with other jobs boards and capture the info / review ROI from posting.
 Speak to Stef / Pepper re payment
 Any shared job board / recruitment related passwords should be stored in Bitwarden under ‘recruitment’ collection
