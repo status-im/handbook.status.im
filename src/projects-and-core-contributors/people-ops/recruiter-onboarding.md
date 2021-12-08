@@ -23,7 +23,7 @@ A little bit about each of us 👀
 😠 [orange chocolate & fish on pizza](https://c.tenor.com/v_kl21xCfcYAAAAC/just-say-no-deny.gif) <br>
 
 - Pepper:<br>
-❤️ Travel, food, peace & quiet, family time
+❤️ Travel, food, peace & quiet, family time <br>
 😠 Losing things, being too hot or too cold
 
 - Alvin:<br>
