@@ -85,9 +85,10 @@ There are several early interviews & talks on our [youtube](https://www.youtube.
 ## Recruitment Hiring workflow 
 
 ### Define Hiring Process and Job spec
-Partner with the hiring manager, create a ‘[job setup](https://docs.google.com/document/d/1SxkdEvb8cA_ws2g9dP4ka0KDhfSt6eFxYi836m_EHvc/edit)’ doc - this should lay out the strategy for hiring
-Tag other POps team members in the doc for input. 
-Save a copy in this folder (NB: it’s visible to all of Status)
+Partner with the hiring manager
+Create a ‘[job setup](https://docs.google.com/document/d/1SxkdEvb8cA_ws2g9dP4ka0KDhfSt6eFxYi836m_EHvc/edit)’ doc - this should lay out the strategy for hiring.
+Tag other POps team members in the doc for input if necessary 
+Save a copy in this [folder](https://drive.google.com/drive/folders/1RoTZvxXCvPUYyKzZADPmRjzZxwNN1HqU?ths=true) (NB: it’s visible to all of Status)
 Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
 Let the rest of Status know what our plans are by posting on Discuss. Include:
 Why we’re hiring for the role
