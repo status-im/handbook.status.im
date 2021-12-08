@@ -23,8 +23,8 @@ A little bit about each of us 👀
 😠 [orange chocolate & fish on pizza](https://c.tenor.com/v_kl21xCfcYAAAAC/just-say-no-deny.gif) <br>
 
 - Pepper:<br>
-❤️ ...
-😠 ...
+❤️ Travel, food, peace & quiet, family time
+😠 Losing things, being too hot or too cold
 
 - Alvin:<br>
 ❤️ ...
@@ -52,10 +52,10 @@ Nimbus is a research team that focuses on developing an Ethereum client and libr
 Vac is a team that focuses on building a communications tool with security, censorship resistance and privacy in mind. It's built in a modular way, with peer-to-peer messaging stack for private, secure, censorship resistant comms. For more infor check out this [blog post](https://vac.dev/waku-v2-ethereum-messaging)
 
 ### Dagger
-...
+Dmitriy leads Dagger and Libp2p projects. P2p networks are at the heart of decentralized technologies and libp2p has quickly gained popularity as the goto p2p stack. At Status, we’ve successfully implemented and deployed a full fledged libp2p stack and it’s now powering the Nimbus Ethereum 2 client. Dagger are responsible for distributed file storage within Status.im
 
 ### Keycard
-...
+Keycard is a new type of smartcard and open source API for simple integration with crypto wallets, DApps, and hardware. Designed to safely send, store, and receive cryptocurrencies in a seamless contactless experience. Guy-Louis is Product Manager for Keycard.
 
 ### Blockchain Infrastructure
 They are building the foundation used by other projects at the [Status Network](https://statusnetwork.com/). They are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. They're cuttently in a research phase, working with models and simulations & plan to move onto implementing the research in the future.
@@ -63,11 +63,11 @@ They are building the foundation used by other projects at the [Status Network](
 ### [Design:](https://design.status.im/) 
 The Design team are constantly helping to create the tools that'll lead to a more open and equitable Internet for us all. They work in an unconventional way, and we're always trying to improve. Valuing autonomy and meritocracy and can be found all over the world, designing decentralization into every part of life.
 
-### Mobile
-...
+### Mobile 
+Andrea heads up the Mobile team, they are responsible for all of the Status.im features and improvements. A mix of UI Engineers, QA Engineers who partner closely with the Design team to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. 
 
 ### Desktop
-...
+Iuri is the Team Lead focussed on launching Status for Desktop. Status Desktop is currently in beta for Mac, Windows and Linux platforms.  Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.  ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using Nim & QT for the frontend, and it shares a common backend with Status mobile that is written in Go.
 
 ### Marketing
 Marketing work closely with our engineering, product and research teams to help support the Status App & Status Network’s marketing efforts. This is done across both the mobile and desktop applications as well as the [Status Network](https://statusnetwork.com/) is all about help to educate developers, and users on the protocols, infrastructure, and use-cases.
