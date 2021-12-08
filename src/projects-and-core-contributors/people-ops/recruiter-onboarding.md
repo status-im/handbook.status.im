@@ -97,7 +97,8 @@ Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
 - Configure “Job Setup” -> Scorecard, Interview Plan, Hiring Team etc.. to the role carefully
 - Edit this [template](https://app.greenhouse.io/get_started/hiring_plans/2055417/from_existing) to fit the new role
 - Ensure all hiring team members can see the scorecards (add permissions to individuals via “Hiring Team” in “job Setup”- basic) 
-- Toggle live to Status jobs
+- Toggle as "live" to Status jobs
+<img width="790" alt="Screenshot 2021-12-08 at 12 51 21" src="https://user-images.githubusercontent.com/32337207/145211311-acd61a0d-3e28-4c1a-9f5d-4277c29d6f71.png">
 - All jobs created and published in Greenhouse are also posted to:
    - Glassdoor
    - Indeed
