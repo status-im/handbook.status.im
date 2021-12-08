@@ -23,7 +23,7 @@ A little bit about each of us 👀
 😠 [orange chocolate & fish on pizza](https://c.tenor.com/v_kl21xCfcYAAAAC/just-say-no-deny.gif) <br>
 
 - Pepper:<br>
-❤️ Travel, food, peace & quiet, family time <br>
+❤️ Travel, food, peace & quiet, family time
 😠 Losing things, being too hot or too cold
 
 - Alvin:<br>
@@ -43,7 +43,7 @@ A little bit about each of us 👀
 ## Overview of Teams/Projects
 [//]: <> (Overview of Teams/Projects - Short overview on each team, what they are responsible for, what projects they're working on, who's in the team with discord handles & the discord channel to contact them on)
 
-Here are some of the teams you may work with, some have their own team page where they explain more about the projects. We've added a short explanation of what the teams do but feel free to read more into them by looking through the links or just ping them on discord 🤙
+Here are some of the teams you may work with, some have their own team page where they explain more about the projects. We've added a short explanation of what the teams do but feel free to read more into them by looking through the links or just ping them on [discord](https://docs.google.com/spreadsheets/d/1f5dVUWvjlK9B0yJj9Q0H-QdwnTVYZCybM924zoEGxko/edit#gid=1667903443) 🤙
 
 ### [Nim:](https://nimbus.team/)
 Nimbus is a research team that focuses on developing an Ethereum client and library targeting both Ethereum and the upcoming, proof-of-stake-based ETH2. Nimbus will be designed to perform well on embedded, mobile and generally resource-restricted devices. The extensible, configurable, and modular design of Nimbus will make it production ready for Web 3.0 and will ensure that it can be supported and maintained across all goals of Ethereum 2.0.
@@ -85,7 +85,7 @@ There are several early interviews & talks on our [youtube](https://www.youtube.
 ## Recruitment Hiring workflow 
 
 ### Define Hiring Process and Job spec
-Partner with the hiring manager, create a ‘job setup’ doc (template) - this should lay out the strategy for hiring
+Partner with the hiring manager, create a ‘[job setup](https://docs.google.com/document/d/1SxkdEvb8cA_ws2g9dP4ka0KDhfSt6eFxYi836m_EHvc/edit)’ doc - this should lay out the strategy for hiring
 Tag other POps team members in the doc for input. 
 Save a copy in this folder (NB: it’s visible to all of Status)
 Get final Hiring Manager ‘sign off’ on JD before posting via Greenhouse
