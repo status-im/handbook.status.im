@@ -9,8 +9,8 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
   - We're growing from 102 to 200 contributors (approximately)
   - Across the entire org
   - [Budget tracker](https://docs.google.com/spreadsheets/d/1eT3WfUSIDmbrxr-Lb6XQQ0zvh-c160EorHDRhPOSIG0/edit#gid=0)
-  - How many hires can each team handle, how much time can leads/team contribute to interviews & onboarding to ensure succesful longterm hires.
-  - How can we split these to not overburden the recruitment team and get the best out of each person
+  - Managing the teams workload via [tracker](https://docs.google.com/spreadsheets/d/1Fvp4rp33SbdK47TIEkSzXZ6UsP2Ti3tvSU9tM9zPD5I/edit#gid=0)
+    - We can use the above tracker to even the workload between all recruiters
 
 ### Retension
   - Onboarding, is it consistent, enough support, we need to collect feedback from teams & contributors (past & present)
