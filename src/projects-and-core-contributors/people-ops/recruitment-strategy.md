@@ -1,6 +1,6 @@
 # Recruitment Strategy 2022 @ Status.im 🚀 
 
-The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 using by having a plan.
+The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 by having a plan.
 
 [//]: <> (Where do we wanna be)
 ## Goals
@@ -33,10 +33,15 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
 
 [//]: <> (Solution)
 
-## Historical recruitment challenges @ Status.im (real/perceived from recruitment & hiring teams)
+## Solutions
 - We pride ourselves in having a high hiring bar
-- 
-
+- ATS transitions, the grass is always greener, happy to be back with GH
+- Recruit niche skills
+  - Closure script, Nim, etc. 
+- We are growing our tech team within a very competitive market
+  - Smart contracts, p2p, etc.  
+- We have a relatively low number of quality inbound applications
+- Competing offers
 
 [//]: <> (Data)
 ## Background/historical data on hiring
