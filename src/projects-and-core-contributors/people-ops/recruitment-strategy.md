@@ -22,7 +22,12 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
 [//]: <> (Problem)
 
 ## Historical recruitment challenges @ Status.im (real/perceived from recruitment & hiring teams)
+- We pride ourselves in having a high hiring bar
+- ATS transitions, the grass is always greener, happy to be back with GH
+- Recruit niche skills
+  - Closure script, Nim, etc. 
 - We are growing our tech team within a very competitive market
+  - Smart contracts, p2p, etc.  
 - We use very in demand skills
 - Work in a niche industry, slowly growing so we need a plan
 - We have a relatively low number of quality inbound applications
