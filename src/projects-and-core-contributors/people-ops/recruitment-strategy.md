@@ -1,6 +1,6 @@
 # Recruitment Strategy 2022 @ Status.im 🚀 
 
-The purpose of this Recruitment Strategy is essentially planning to reach the growth and retension goals for 2020 using by 
+The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 using by 
 
 [//]: <> (Where do we wanna be)
 ## Goals
