@@ -20,7 +20,7 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
 
 [//]: <> (Problem)
 
-## Historical recruitment challenges @ Status.im (real/percieved from recrutiment & hiring teams)
+## Historical recruitment challenges @ Status.im (real/percieved from recruitment & hiring teams)
 - We are growing our tech team within a very competitive market
 - We use very in demand skills
 - Work in a niche industry, slowly growing so we need a plan
