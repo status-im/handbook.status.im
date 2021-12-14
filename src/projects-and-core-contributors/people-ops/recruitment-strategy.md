@@ -12,11 +12,11 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
   - Managing the teams workload via [tracker](https://docs.google.com/spreadsheets/d/1Fvp4rp33SbdK47TIEkSzXZ6UsP2Ti3tvSU9tM9zPD5I/edit#gid=0)
     - We can use the above tracker to even the workload between all recruiters
 
-### Retention
-  - Onboarding, is it consistent, enough support, we need to collect feedback from teams & contributors (past & present)
-  - Development, how much development can we offer & what does/will it look like
-  - Career paths, what does this look like, traditional or moving across different projects
-  - Salary reviews, how often, is there a process, what's the history
+### Retension
+  - Facilitating smooth onboarding, handing to to POps
+  - Checking in with candidates
+  - Sharing our discord handles at offer stage
+  - 
 
 [//]: <> (Problem)
 
