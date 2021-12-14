@@ -43,16 +43,6 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
 - We have a relatively low number of quality inbound applications
 - Competing offers
 
-[//]: <> (Data)
-## Background/historical data on hiring
-- Recruitment success in terms of percentages (maybe show a rough breakdown of pipeline)
-- Growth vs. crypto industry vs wider tech industry 
-- Retention vs. crypto industry & wider tech industry 
-- Problem areas
-- Solutions to problems
-
-<img width="1037" alt="Screenshot 2021-11-03 at 17 25 17" src="https://user-images.githubusercontent.com/32337207/140152721-4750d4e9-8ef1-48ea-b0f2-e452df1fec16.png">
-
 [//]: <> (Present)
 
 ## Current recruitment processes
