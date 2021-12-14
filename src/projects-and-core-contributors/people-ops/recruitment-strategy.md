@@ -19,7 +19,7 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
   - Checking in with candidates from time to time
   - Raising comp level concerns with Finance for candidates in countries with low COL index - can we review after trial etc to even out disparity? Otherwise we risk losing them
 
-[//]: <> (Problem)
+[//]: <> (Problem create two collumns challenge & solutions)
 
 ## Historical recruitment challenges @ Status.im (real/perceived from recruitment & hiring teams)
 - We pride ourselves in having a high hiring bar
@@ -28,15 +28,15 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
   - Closure script, Nim, etc. 
 - We are growing our tech team within a very competitive market
   - Smart contracts, p2p, etc.  
-- We use very in demand skills
-- Work in a niche industry, slowly growing so we need a plan
 - We have a relatively low number of quality inbound applications
-- Attrition?
-- Lifespan of contributors?
-- .
-- .
-- .
-- .
+- Competing offers
+
+[//]: <> (Solution)
+
+## Historical recruitment challenges @ Status.im (real/perceived from recruitment & hiring teams)
+- We pride ourselves in having a high hiring bar
+- 
+
 
 [//]: <> (Data)
 ## Background/historical data on hiring
