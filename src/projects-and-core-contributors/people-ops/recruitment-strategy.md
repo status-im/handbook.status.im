@@ -13,11 +13,11 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
     - We can use the above tracker to even the workload between all recruiters
 
 ### Retention
-  - Facilitating smooth onboarding, with POps hand-over
-  - Checking in with candidates from time to time
   - Hire people with the right motivation to join our team
   - Sharing our discord handles at offer stage
-  - Raising comp level concerns for candidates in countries with low COL index - can we review after trial etc to even out disparity?
+  - Facilitating smooth onboarding, with POps hand-over
+  - Checking in with candidates from time to time
+  - Raising comp level concerns with Finance for candidates in countries with low COL index - can we review after trial etc to even out disparity? Otherwise we risk losing them
 
 [//]: <> (Problem)
 
