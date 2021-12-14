@@ -1,15 +1,14 @@
 # Recruitment Strategy 2022 @ Status.im 🚀 
 
-The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 using by 
+The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 using by having a plan.
 
 [//]: <> (Where do we wanna be)
 ## Goals
 
 ### Growth
-  - How much are we growing?
-  - Where are we growing?
-  - Do we have a budget? If so, is it a lump sum, specific for each department/team/role?
-  - Try to break the total number into percentages across deparments & teams
+  - We're growing from 102 to 200 contributors (approximately)
+  - Across the entire org
+  - [Budget tracker](https://docs.google.com/spreadsheets/d/1eT3WfUSIDmbrxr-Lb6XQQ0zvh-c160EorHDRhPOSIG0/edit#gid=0)
   - How many hires can each team handle, how much time can leads/team contribute to interviews & onboarding to ensure succesful longterm hires.
   - How can we split these to not overburden the recruitment team and get the best out of each person
 
