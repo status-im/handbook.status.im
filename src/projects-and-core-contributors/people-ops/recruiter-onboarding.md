@@ -20,23 +20,21 @@ A little bit about each of us 👀
 ❤️ [Basketball](https://c.tenor.com/wazb7Xpzs6IAAAAC/stephen-curry-123.gif), [romcoms](https://i.gifer.com/58by.gif), [anime](https://thumbs.gfycat.com/AnyFlashyCurlew-size_restricted.gif), [rum](https://c.tenor.com/89IJ1z8sO3UAAAAC/no-alcohol-wheres-the-alcohol.gif), [pineapple on pizza](https://i.imgur.com/mENd5MI.jpg) & [NFT's](https://pbs.twimg.com/media/FCT-M5WWEAkjiha.jpg) <br>
 😠 [orange chocolate & fish on pizza](https://c.tenor.com/v_kl21xCfcYAAAAC/just-say-no-deny.gif) <br>
 
-- Pepper:<br>
+- [Pepper](https://www.linkedin.com/in/pepperfretwell/):<br>
 ❤️ Travel, food, peace & quiet, family time 
 😠 Mushrooms, losing things, being too hot or too cold
 
-- Alvin:<br>
+- [Terry](https://www.linkedin.com/in/terrymitchellhk/):<br>
 ❤️ ...
 😠 ...
 
-- Terry:<br>
+- [Monica](https://www.linkedin.com/in/roumonicazeng/):<br>
 ❤️ ...
 😠 ...
 
-- Monica:<br>
+- [Ricardo](...):<br>
 ❤️ ...
 😠 ...
-
-
 
 ## Overview of Teams/Projects
 
