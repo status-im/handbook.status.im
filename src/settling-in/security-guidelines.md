@@ -13,7 +13,6 @@ Here you'll find helpful links to resources to protect yourself and the organiza
 
 Above all else, never be afraid to ask for help, ask questions, or report security concerns. Until we have an official infrastructure for support tickets, drop by:
 
-   * #security-helpdesk to get help.
    * #security for more broad, public questions.
    * #security-internal for anything that is more private.
    * Drop an email to `security@status.im` if none of the above channels fit.
