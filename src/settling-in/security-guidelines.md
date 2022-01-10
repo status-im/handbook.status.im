@@ -20,7 +20,7 @@ Above all else, never be afraid to ask for help, ask questions, or report securi
 
 ## Best practices checklists
 
-This open-source security [checklist](https://securitycheckli.st/) helps you improve your online security and privacy in a clear, easy-to-follow list format. You can check off completed items as you go along.
+Review & follow this [checklist](https://github.com/status-im/status-security/blob/master/process/personal-security-checklist.md) to make sure you are complying with our best practices.
 
 Fancy giving your security a spring clean? Check out [this](https://winter.mycrypto.com/) crypto advent calendar with daily bite-sized security tips.
 
