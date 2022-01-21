@@ -18,7 +18,7 @@ This applies to all mechanisms of receiving funding, including:
 
 Not sure what to mention when requesting funding? Here's a template email to use (delete non-applicable info as needed):
 
-> **To:** Johannes, Jason
+> **To:** `finance@status.im`
 > **CC:** people-ops@status.im, team lead
 >
 > **Subject:** Funding request - [name of service/cost item]
