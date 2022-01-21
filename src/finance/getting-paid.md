@@ -90,31 +90,13 @@ Please bill the flat monthly or annual/12 figure (regardless of the vacation/tim
 
 Please use the working days shown below for your calculations:
 
-**Working days 2021**
+**Working days 2022**
 
-January 21
-
-February 20
-
-March 23
-
-April 22
-
-May 21
-
-June 22
-
-July 22
-
-August 22
-
-September 22
-
-October 21
-
-November 22
-
-December 23
+| January - 21 | February - 20 | March - 23 |
+|:---:|:---:|:---:|
+| April - 21 | May - 22 | June - 22 |
+| July - 21 | August - 23 | September - 22 |
+| October - 21 | November - 22 | December - 22 |
 
 ### Expense Reimbursements
 
