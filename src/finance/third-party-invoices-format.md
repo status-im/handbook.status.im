@@ -14,39 +14,13 @@ Here's a sample of how invoices should look, as well as all the appropriate data
 ## Status Information
    * Status legal entity and invoicing address (*).
 
-### 🇨🇭 Status Switzerland
-
-**Status Research & Development GmbH**
-
-Baarerstrasse 10,
-
-6302 Zug,
-
-Switzerland
-
-MWST-Nr: CHE-319.159.934 MWST
-
-### 🇸🇬 Status Singapore
-
-**Status Holdings Pte. Ltd.**
-
-160 Robinson Road, #24-09,
-
-068914, Singapore
-
-UEN: 201625575Z
-
-### 🇩🇪 Status Germany
-
-**Status Research & Development Deutschland GmbH**
-
-Am Zirkus 2,
-
-10117 Berlin,
-
-Germany
-
-USt-IdNr: DE317300297
+|  🇨🇭 Status Switzerland |  🇸🇬 Status Singapore |  🇩🇪 Status Germany |
+|:---:|:---:|:---:|
+| Status Research & Development GmbH | Status Holdings Pte. Ltd. | Status Research & Development Deutschland GmbH |
+| Baarerstrasse 10, | 160 Robinson Road, #24-09, | Am Zirkus 2, |
+| 6302 Zug, | 068914, Singapore | 10117 Berlin, |
+| Switzerland | Singapore | Germany |
+| MWST-Nr: CHE-319.159.934 MWST | UEN: 201625575Z | USt-IdNr: DE317300297 |
 
 ## Content Information
    * The word INVOICE or CREDIT NOTE or DEBIT NOTE (*);
