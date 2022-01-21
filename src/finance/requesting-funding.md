@@ -18,8 +18,8 @@ This applies to all mechanisms of receiving funding, including:
 
 Not sure what to mention when requesting funding? Here's a template email to use (delete non-applicable info as needed):
 
-> **To:** `finance@status.im`
-> **CC:** people-ops@status.im, team lead
+> **To:** finance@status.im
+> **CC:** people-ops@status.im (when appropiate), team lead
 >
 > **Subject:** Funding request - [name of service/cost item]
 >   * Payment mechanism - company credit card / crypto transfer / >   * >   >   * Expensify reimbursement
