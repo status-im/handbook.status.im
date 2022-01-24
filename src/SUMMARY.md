@@ -23,7 +23,7 @@
           - [How to use TravelPerk](./working-here/how-to-use-travelperk.md)
      - [Immigration and relocation](./working-here/immigration-relocation.md)
 - [Your most important role](./hiring/index.md)
-- [Finance]
+- [Finance](./finance/index.md)
      - [Getting paid](./finance/getting-paid.md)
      - [Third-party invoices format](./finance/third-party-invoices-format.md)
      - [Expense reimbursements](./finance/expense-reimbursements.md)
