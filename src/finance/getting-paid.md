@@ -33,7 +33,7 @@ There are exceptional cases where another legal entity applies. Please use the c
 
 ## Payment method
 
-### Bank and Wallet Details
+### Bank and Wallet details
 
 Please maintain your details on your Bamboo profile if you have one. For simplicity, we only allow the indication of one wallet and one bank account (if you have intermediary accounts, please use the appropriate fields of the Bank Information section). You can edit it directly if you want to change the % paid in ETH, DAI, or SNT. Once you save it, it will send an approval request to the Finance team —the reason is so that we get a notification that something's changed and can update our payment records timely.
 
@@ -41,7 +41,7 @@ Only after we confirm the approval will your changes be reflected in your Bamboo
 
 If you need a specific reference to complete this payment, please state it explicitly on your invoice.
 
-> ⚠️ To make sure that your changes are considered for the current month, change your info before the 15th. 
+> ⚠️ To make sure that your changes are considered for the current month, change your info before the 15th. Remove accented or special characters. We can only correctly upload plain text to the system.
 
 Please be sure that your employment contract or services agreement reflects your registered address for banking purposes, as our bank sometimes asks us to validate that banking details match contract details.
 
