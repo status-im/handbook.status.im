@@ -12,26 +12,23 @@ The standard setup for everyone includes a laptop, headphones, a Keycard, a Yubi
 
 We defined the amounts to cover a range of options, so you will stay below that budget in most cases. When that happens, note that pre-approved amounts aren't "balances," and you can't spend the difference for other stuff.
 
-   * Laptop: up to 2000 EUR
-   * Mic and headphones: up to 100 EUR
+   * Laptop: up to 2000 USD
+   * Mic and headphones: up to 100 USD
    * Keycard: ping the #keycard channel to get a code 
    * Yubikey: you can reimburse one
    * Ledger: you can reimburse one
 
-Check beforehand if there's already a suitable item in our [inventory](https://docs.google.com/spreadsheets/d/1A2jqn3Ch-zDyHFRnqMaoWwVHKBAPgH2p4sgEWk7Jwyo/edit?ts=5c2cbe52#gid=0). Also, consider refurbished devices and purchasing in trusted secondary markets for things that make sense. 
-
-For additional funds per item or other equipment, check with your team lead, and add the approval details to your reimbursement. If your equipment needs fall outside your team's budget, you can [request funds](/src/finance/request-funds.md) for approval. Some examples of other equipment:
+For additional funds per item or other equipment, you need to obtain a previous approval from your team lead and add the approval details to your reimbursement. If your equipment needs fall outside your team's budget, you can [request funds](/src/finance/request-funds.md) for approval. Some examples of other equipment:
 
    * Testing phones for engineering roles
    * A printer for an ops role
    * A digital sketchpad for a design role
-   * A business phone for a biz dev role
 
 > ℹ️ If you're unsure whether or not this applies to you, ping People Ops. We occasionally have loan assets available to all contributors. 
 
 ## 🎁 How to get your computers and devices
 
-   1. Let your team lead and People Ops know the devices you will purchase two weeks before your start date, during your onboarding, or when you need them. 
+   1. Let your team lead know prior to purchasing the devices. 
    2. Choose official or trusted vendors to buy your equipment.
    3. Go to your `profile > assets` in BambooHR and `Add assets,` filling all device information.
    4. Once registered, request a refund by adding the expense to Expensify and your next invoice.
@@ -39,9 +36,9 @@ For additional funds per item or other equipment, check with your team lead, and
 
 ## ℹ️ FAQ
 
-   * **What if I'm a German employee?**
+   * **What if I'm a German or Swiss employee?**
 
-      If you're a German employee, please be sure to buy your devices via an invoice addressed to the German entity (Status Research & Development Deutschland GmbH, ℅ Cormoran GmbH, Am Zirkus 2, 10117 Berlin, Germany). The invoice should be submitted to billing@status.im.
+      If you're a German or Swiss employee, please be sure to buy your devices via an invoice addressed to the [German or Swiss entity](./finance/third-party-invoices-format.md). The invoice should be submitted to billing@status.im.
 
    * **What if I don't have enough funds to buy the device before reimbursement?**
    
@@ -49,7 +46,7 @@ For additional funds per item or other equipment, check with your team lead, and
    
    * **What if my devices become outdated?**
    
-      At the 3 year mark, if your device needs an upgrade, ping People Ops.
+      After 36 months usage or if your device needs an upgrade, ping People Ops.
       
    * **What happens if I accidentally damage a device?**
 
