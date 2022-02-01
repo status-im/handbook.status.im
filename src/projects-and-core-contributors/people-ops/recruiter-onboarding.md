@@ -12,8 +12,6 @@ Great to have you in the team! ✌️
 
 It's a flat structure & for reporting purposes Carl oversees the department, however he's happy for us to manage ourselves and our own workload.
 
-<img width="1137" alt="Screenshot 2021-11-23 at 14 08 54" src="https://user-images.githubusercontent.com/32337207/143039240-5e2f373e-e96c-4926-aaa8-054f32daeb17.png">
-
 A little bit about each of us 👀
 
 - [Angel](https://www.linkedin.com/in/angelrgutierrez/): <br>
