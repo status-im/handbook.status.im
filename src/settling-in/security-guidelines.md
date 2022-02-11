@@ -17,6 +17,8 @@ Above all else, never be afraid to ask for help, ask questions, or report securi
    * #security-internal for anything that is more private.
    * Drop an email to `security@status.im` if none of the above channels fit.
 
+All contributors with an onboarding process will have a security touchpoing with the security team during the first month of their onboarding.
+
 ## Best practices checklists
 
 Review & follow this [checklist](https://github.com/status-im/status-security/blob/master/process/personal-security-checklist.md) to make sure you are complying with our best practices.
