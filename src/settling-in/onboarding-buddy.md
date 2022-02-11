@@ -17,7 +17,7 @@ If the timezone difference makes it hard to pair, please let People Ops know, an
 
 ## For new contributors
 
-As a new contributor, it's not always easy to find a tenured peer to walk you through all things Status. We will match you with a buddy who'll set up weekly chats during your first 4-6 weeks. Your buddy will reach out to you sometime in your first week. There's nothing for you to prepare or do in advance of the weekly buddy calls:
+As a new contributor, it's not always easy to find a tenured peer to walk you through all things Status. We will match you with a buddy! You can find their username in BambooHR to send them a message to introduce yourself and set up recurrent calls during your first 4-6 weeks. There's nothing for you to prepare or do in advance of the weekly buddy calls:
 
    * Your buddy will be ready to guide you on contributing to Status.
    * The buddy chats are a safe space for you to ask whatever you'd like about working at Status --no topic too trivial or complex!
@@ -55,20 +55,21 @@ There's no set amount of time you should have worked with Status before becoming
    * Encourage them to ask questions if unsure about any aspects of their role. 
    * When possible, arrange to meet up for coworking in the area, or introduce them to any other Status team members in their area. 
    * Flag to People Ops topics or situations that seem confusing for new hires, so we can tackle them better and faster!
+   * Be a general all-round Status legend and share your love and passion for the project.
 
 
 **Guidelines for approaching the first meeting**
 
-If you haven't done this role before, it can seem daunting; this is matched by the new starter feeling a bit overwhelmed, possibly by a new position and new environment.
+If you haven't been a buddy before, don't panic or feel overwhelmed as the new joiner may have similar feelings. Remember every bit of knowledge and advice is valuable to the success of the new starter!
 
-On the new contributor's first day with Status, People Ops will chat to get them set up and introduce them to high-level information about working at Status. So you won't be expected to give them details from scratch or contact them immediately on their first day.
+On the new contributor's first few days with Status, People Ops will arrange an onboarding call to get them set up and introduce them to high-level information about working at Status. You are not expected to give them details from scratch or contact them immediately on their first day.
 
 The following checklist will help establish your relationship and decide how you will use the time spent together moving forward. It includes some suggestions for you to cover throughout your chats:
 
-- [ ] Schedule a weekly chat every week during their first 4-6 weeks.
+- [ ] Establish frequency / duration of calls over a suggested 4-6 weeks.
 - [ ] Outline your role, experience at Status, what you're working on, and how that ties in with the organization.
 - [ ] Explain to them what the buddy program is, and your role as their buddy, and the type of topics you'll be covering in the weekly chats.
-- [ ] Walk through the Status app and send each other messages and ETH/SNT.
+- [ ] Walk through the Status app, how to contact people, and send each other messages and ETH/SNT.
 - [ ] Find out about their professional background and experience, and what they will be working on/they're excited about contributing.
 - [ ] Ask about their experience/comfort level with remote work, decentralized autonomous organizations, open-source, and community-based working.
 - [ ] Talk about Status's mission and objectives -- the State of Us, decentralization, the Principles, etc.
@@ -76,7 +77,6 @@ The following checklist will help establish your relationship and decide how you
 - [ ] If relevant, introduce them to key people they may benefit from knowing outside of their immediate team.
 - [ ] Suggest what to read and other valuable resources for their role or get to know the company in general.
 - [ ] Ask them if they're confused about anything and help them figure out the answers they need. If you don't know the answers to some of their questions, it's okay --point them to someone who does, or ping #people-ops so we can look up a solution together.
-- [ ] Explain basics like how to use Status, how to contact people, or how Swarms work.
 - [ ] Share some Status channels that they may find interesting to follow.
 - [ ] Get to know a bit about them as a person outside of work.
 - [ ] Talk about how to dogfood the app, give examples of how they can use it, where to report issues, nightly builds, etc.
