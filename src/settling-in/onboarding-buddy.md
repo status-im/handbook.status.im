@@ -1,6 +1,6 @@
 # 🧭 Onboarding buddy
 
-We've created the buddy program to make the onboarding process in a remote team as warm as possible. People to connect with when you first join, solve doubts as they appear, and immerse new contributors into our culture from the lenses of someone who's helped shape it. 
+We've created the buddy program to make the onboarding process in a remote team as warm and welcoming as possible. A buddy is there to connect new joiners, solve doubts as they appear, and immerse new contributors into our culture from the lenses of someone who's helped shape it.
 
 Here you'll find helpful information about what you can expect from your buddy and how to become a successful one.
 
