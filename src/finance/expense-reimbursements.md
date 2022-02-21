@@ -8,7 +8,7 @@ You can request a reimbursement for expenses incurred on behalf of Status during
    * [Traveling for Status](src/remote-at-status/traveling-for-status.md)
    * [Essential reading](src/welcome-to-status/essential-reading.md)
 
-It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses in a compliant manner. The standard expense reimbursement process uses:
+It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses correctly. The standard expense reimbursement process uses:
    * [Expensify](https://www.expensify.com/) to report and store the expense receipts, AND
    * Adding expenses to your monthly invoice sent to `billing@statusm.im` to send the reimbursement.
 
@@ -31,8 +31,9 @@ Go to the `Expense` tab on either the web or mobile apps to upload expenses manu
 ![expensify-new-expense](/src/images/expensify-new-expense.png/)
 
    1. Make sure to fill or review all the fields as the scanning feature isn't always reliable. Pay special attention to amounts and currencies.
-   2. When paying for a group (i.e., a meal shared with other contributors from Status), please list all those in attendance in the `attendee's` field.
-   3. Choose a category for your expense and add a detailed description of how's it business-related. Include information such as the trip it belongs to, who approved it, what budget it comes from, whether or not you've paid for other contributors (i.e., group meal), and any other data you consider relevant.
+   2. You should claim expenses using the date they incurred. For example: if the purchase happened on Jan 10th and you're uploading or requesting the reimbursement on Jan 14th, the correct expense date would be Jan 10th.
+   3. When paying for a group (i.e., a meal shared with other contributors from Status), please list all those in attendance in the `attendee's` field.
+   4. Choose a category for your expense and add a detailed description of how's it business-related. Include information such as the trip it belongs to, who approved it, what budget it comes from, whether or not you've paid for other contributors (i.e., group meal), and any other data you consider relevant.
 
      * Team Event Expense
           * Category: Events
@@ -44,9 +45,9 @@ Go to the `Expense` tab on either the web or mobile apps to upload expenses manu
 
 ![expensify-expense-details](/src/images/expensify-expense-details.png/)
 
-   3. If it's your first expense of the month, create a new report for all costs incurred during that period. Otherwise, add it to an existing one.
-   4. We suggest submitting an expense reimbursement report only when the total value is above USD 50.
-   5. You **must** submit expenses as expenses rather than an invoice.
+   5. If it's your first expense of the month, create a new report for all costs incurred during that period. Otherwise, add it to an existing one.
+   6. We suggest submitting an expense reimbursement report only when the total value is above USD 50.
+   7. You **must** submit expenses as expenses rather than an invoice.
 
 ![expensify-expenses-expenses](/src/images/expensify-expenses-expenses.png)
 
