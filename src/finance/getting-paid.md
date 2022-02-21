@@ -80,11 +80,11 @@ Please discuss with People Ops if you intend to bill over this amount.
 
 ### Pro-rating the first month
 
-For your first month (if being paid on an annual or monthly basis), please prorate the amount in your invoice to reflect the actual days worked divided by the effectual working days of that month, if you joined during a month:
+For your first month (if being paid on an annual or monthly basis), please prorate the amount in your invoice to reflect the number of days from the beginning of your contract to the last day of the month.
 
 *Example: If March has 22 working days (counting Mon-Fri) and you started on a Monday, March 12, your monthly invoice amount will be {your monthly fee amount}/22 x 15.*
 
-Please bill the flat monthly or annual/12 figure (regardless of the vacation/time off you took) for each subsequent month.
+Please bill the flat monthly or annual/12 figure for each subsequent month.
 
 *Example: You joined Status on March 12. During April, you took 1 week of vacation. Your April invoice amount will be {your monthly stipend amount in full} or {your annual stipend amount}/12*
 
