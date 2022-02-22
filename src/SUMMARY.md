@@ -6,7 +6,7 @@
      - [Our Principles](./welcome-to-status/our-principles.md)
      - [Essential reading](./welcome-to-status/essential-reading.md)
 - [Settling in](./settling-in/index.md)
-     - [Onboarding buddy](./settling-in/onboarding-buddy.md)
+     - [Buddy program](./settling-in/onboarding-buddy.md)
      - [The trial period](./settling-in/the-trial-period.md)
      - [Contributor Code of Conduct](./settling-in/contributor-code-of-conduct.md)
      - [Contributor Privacy Policy](./settling-in/contributor-privacy-policy.md)
