@@ -59,5 +59,9 @@ The purpose of this Recruitment Strategy is essentially planning to reach the gr
   - Make the process more agile
   - Involving more engineers into the interviewing process to have more options & move faster
   - Keep an eye on KPI's, perhaps more focused on time left between interview stages
+
+- Retro's at the end of each hire
+  - Group process on a video call or in a chat
+  - We can focus & improve   
   
 Wish us luck 🤞
