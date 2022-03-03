@@ -2,76 +2,62 @@
 
 The purpose of this Recruitment Strategy is essentially planning to reach the growth and retention goals for 2020 by having a plan.
 
-[//]: <> (Where do we wanna be)
-## Goals
-
-### Growth
+## Growth (main goal for our team)
   - We're growing from 102 to 200 contributors (approximately)
-  - Across the entire org
-  - [Budget tracker](https://docs.google.com/spreadsheets/d/1eT3WfUSIDmbrxr-Lb6XQQ0zvh-c160EorHDRhPOSIG0/edit#gid=0)
-  - Managing the teams workload via [tracker](https://docs.google.com/spreadsheets/d/1Fvp4rp33SbdK47TIEkSzXZ6UsP2Ti3tvSU9tM9zPD5I/edit#gid=0)
-    - We can use the above tracker to even the workload between all recruiters
-
-### Retention
-  - Hire people with the right motivation to join our team
-  - Sharing our discord handles at offer stage
-  - Facilitating smooth onboarding, with POps hand-over
-  - Checking in with candidates from time to time
-  - Raising comp level concerns with Finance for candidates in countries with low COL index - can we review after trial etc to even out disparity? Otherwise we risk losing them
+    - Across the entire org
+  - Hire people with the right motivation & align with our [principles](https://our.status.im/our-principles/)
 
 [//]: <> (Problem create two collumns challenge & solutions)
 
-## Historical recruitment challenges @ Status.im (real/perceived from recruitment & hiring teams)
-- We pride ourselves in having a high hiring bar
-- ATS transitions, the grass is always greener, happy to be back with GH
+## Challenges
+- Increased number of hires
+- New team members, how will we divide positions efficiently
+- Managing increased workload between the increased team
+- Low insight into budgets & finance
+- ATS transitions
 - Recruit niche skills
-  - Closure script, Nim, etc. 
-- We are growing our tech team within a very competitive market
-  - Smart contracts, p2p, etc.  
-- We have a relatively low number of quality inbound applications
+  - Closure script, Nim, etc.  
+- Low number of quality inbound applications
 - Competing offers
+- Slow interview process
 
-[//]: <> (Solution)
+## Solutions to help us on the way to the target 🎯
+- ✅ Increase size of recruitment team: [Pepper](https://www.linkedin.com/in/pepperfretwell/), [Angel](https://www.linkedin.com/in/angelrgutierrez/), [Catia](https://www.linkedin.com/in/catiarubinasousa/) & [Maya](https://www.linkedin.com/in/maya-krumova-932808166/)
+- Managing the teams workload in our [Hiring Tracker](https://docs.google.com/spreadsheets/d/1sNlQ-NqMwO3QJX3rFUyTvrpMi7UEwQVwpkXvKiica80/edit#gid=0)
 
-## Solutions
-- We pride ourselves in having a high hiring bar
-- ATS transitions, the grass is always greener, happy to be back with GH
-- Recruit niche skills
-  - Closure script, Nim, etc. 
-- We are growing our tech team within a very competitive market
-  - Smart contracts, p2p, etc.  
-- We have a relatively low number of quality inbound applications
-- Competing offers
+- ✅ Increase hiring by roles; Production, Research, Security, Mobile/Desktop, ect.
 
-[//]: <> (Present)
+- ✅ Managing the teams workload via [Recruitment Tracker](https://docs.google.com/spreadsheets/d/1Fvp4rp33SbdK47TIEkSzXZ6UsP2Ti3tvSU9tM9zPD5I/edit#gid=0)
 
-## Current recruitment processes
-- Process vs. crypto industry vs. wider tech industry
-- Individual teams (Tech, Design, Marketing, ect.)
-  - Identify areas of strength
-  - Identify areas of improvement
+- ✅ We now have a better workign relationship with finance and have integrated our [ Recruitment & Budgeting Tracker](https://docs.google.com/spreadsheets/d/1sNlQ-NqMwO3QJX3rFUyTvrpMi7UEwQVwpkXvKiica80/edit#gid=1947733976) into one document for more visability and openness 
 
-## Feedback from hiring teams
-- Quality of candidates, speed, do they see recrutiment as a help or hinderence (areas of improvement)
-  - Important to get feedback from teams
-  - Can be specific of general feedback
-  - If they provide some solutions that's even better
+- Increase automation in ATS</p>
+  - Integrations for calendly, calendars, job postings
+  - Set templates for consistent message across the recruiters
 
-[//]: <> (Future needed to hit goals)
+- Approaching people from companies with which we partner (like Ethereum) </p>
+  - List of people who left partner companies    
+  - Team up with other recruiters
+  - Targetted searches for industry specific projects (Cryptography, Web3, Messaging, Privacy, ect.) 
+  - Targetted searches for product specific projects
+  - Targetted searches for languagage specific (Nim, Clojure, Go, Rust, ect.)
 
-## Improvements Recruitment @ Status
+- Low number of quality inbound applications
+  - Target job boards
+  - Use auto-reject in application questions to help filtering candidates; the goal is to have suitable candidates to filter and review
+  - Networking/Branding
+    - Attending industry events
+    - Work with marketing for recruitment related posts such as a day in the life, etc.    
 
-### Priority 1
-  - ...
-  - ...
-  - ...   
-### Priority 2
-  - ...
-  - ...
-  - ...    
-### Priority 3
-  - ...
-  - ...
-  - ...    
+- Competing offers; Sign on bonus?
+  -   via SNT
+  -   via amazon voucher
+  -   ... Other ideas?
 
-[//]: <> (Action points/plan to get this all into place)
+- Slow interview process   
+  - Hiring team survey and talks with the hiring managers
+  - Make the process more agile
+  - Involving more engineers into the interviewing process to have more options & move faster
+  - Keep an eye on KPI's, perhaps more focused on time left between interview stages
+  
+Wish us luck 🤞
