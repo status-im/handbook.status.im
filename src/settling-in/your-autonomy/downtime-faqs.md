@@ -24,7 +24,7 @@ First of all, congratulations! 🎊 We're happy about the new addition(s) to you
 
 ### Next steps
 
-As soon as you're comfortable sharing the news, please ping `people-ops@status.im` to chat about your plans. It'd be great if you could give as much notice as you can –as a rule of thumb, at least equivalent to the amount of days you'll be unavailable (i.e., if you want to take four weeks, let us know four weeks in advance).
+As soon as you're comfortable sharing the news, please ping `people-ops@status.im` to chat about your plans. It'd be great if you could give as much notice as you can –as a rule of thumb, at least equivalent to the number of days you'll be unavailable (i.e., if you want to take four weeks, let us know four weeks in advance).
 
 We'll do our best to accommodate you. Still, it may not always be possible considering your needs, length, and deliverables. We'll review each request on a case by case basis, involving your team lead.
 
@@ -32,7 +32,7 @@ We'll do our best to accommodate you. Still, it may not always be possible consi
 
 We will pause your SNT distributions when you take a prolonged downtime period. In this case, you will forfeit any SNT distributions that occur during that period.
 
-For short period of time, you will still receive your quarterly SNT distributions as usual.
+For a short time period, you will still be eligible for your quarterly SNT distributions.
 
 ### Access to tools/accounts
 
