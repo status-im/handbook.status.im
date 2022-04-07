@@ -2,9 +2,8 @@
 
 - [Introduction](./index.md)
 - [Welcome to Status](./welcome-to-status/index.md)
-     - [A letter to Status: context & strategy](./welcome-to-status/a-letter-to-status.md)
-     - [Our Principles](./welcome-to-status/our-principles.md)
-     - [Essential reading](./welcome-to-status/essential-reading.md)
+- [Our Principles](./our-principles.md)
+- [Directory of Core Contributors](./catalog.md)
 - [Settling in](./settling-in/index.md)
      - [Onboarding buddy](./settling-in/onboarding-buddy.md)
      - [The trial period](./settling-in/the-trial-period.md)
@@ -31,5 +30,4 @@
 
 *****
 
-- [Directory of Core Contributors](./catalog.md)
 - [Contributing to the handbook](./contributing-to-the-handbook.md)
