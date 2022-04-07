@@ -1,4 +1,4 @@
-# 🎓 Recommended Reading
+# 🎓 Recommended reading
 
 We encourage using some time to learn about things related to your tasks and our collective mission. Make your peers aware of you being on/offline and that the team's progress doesn't get hindered. Feel free to discuss it openly and agree on timing with everyone involved.
 
