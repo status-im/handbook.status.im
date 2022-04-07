@@ -14,9 +14,9 @@ There is no need to communicate time off unless it's a full day or longer. Non-l
 
 Monthly and project rate contractors can invoice us for their agreed amounts in months when they take time off. Your contractor agreement is based on your services provided and does not mandate the time or location where the works are to take place. 
 
-### Create unavailability entries
+### Create downtime entries
 
-We record contributors' AFK dates with [Bamboo](https://statusim.bamboohr.com/) to [keep an overview](https://statusim.bamboohr.com/calendar) of who's around in the projects and products to help schedule launches, handoffs, etc.
+We record contributors' unavailable dates with [Bamboo](https://statusim.bamboohr.com/) to [keep an overview](https://statusim.bamboohr.com/calendar) of who's around in the projects and products to help schedule launches, handoffs, etc.
 
 Bamboo doesn't allow to add an entry directly and insists that all dates entered are 'approved' by People Ops. Please, be assured that that's a workflow we can't amend in the system, and we approve all requests by default. 
 
