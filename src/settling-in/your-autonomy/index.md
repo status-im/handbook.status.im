@@ -1,4 +1,4 @@
-## 🦋 Your autonomy
+# 🦋 Your autonomy
 
 Projects have project leads who coordinate communications and resources. However, contributors don’t have managers, you collaborate directly with other contributors in the project. 
 
