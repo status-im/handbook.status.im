@@ -1,4 +1,4 @@
-# Welcome to Status
+# 👋 Welcome to Status
 
 Status was created to:
 
