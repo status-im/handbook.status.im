@@ -2,9 +2,10 @@
 
 - [Introduction](./index.md)
 - [Welcome to Status](./welcome-to-status/index.md)
-- [Our Principles](./our-principles.md)
+- [Our principles](./our-principles.md)
 - [Directory of Core Contributors](./catalog.md)
 - [Settling in](./settling-in/index.md)
+     - [Recommended reading](./settling-in/essential-reading.md)
      - [Onboarding buddy](./settling-in/onboarding-buddy.md)
      - [The trial period](./settling-in/the-trial-period.md)
      - [Contributor Code of Conduct](./settling-in/contributor-code-of-conduct.md)
