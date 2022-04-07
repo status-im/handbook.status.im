@@ -38,3 +38,6 @@ For short period of time, you will still receive your quarterly SNT distribution
 
 In general, we will keep your access to Google and other centralized accounts open during your downtime.
 
+*****
+
+✍️ **Contribute to this page!** Create a PR and assign someone from the People Ops team to review it.
