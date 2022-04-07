@@ -7,7 +7,7 @@
 - [Settling in](./settling-in/index.md)
      - [Recommended reading](./settling-in/essential-reading.md)
      - [Your autonomy](./settling-in/your-autonomy/index.md)
-        - [Self-time management](./settling-in/self-time-management.md)
+        - [Self-time management](./settling-in/your-autonomy/self-time-management.md)
         - [Downtime FAQs](./settling-in/your-autonomy/downtime-faqs.md)
         - [Location independence](./settling-in/your-autonomy/location-independence.md)
      - [The trial period](./settling-in/the-trial-period.md)
