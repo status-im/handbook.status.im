@@ -16,6 +16,10 @@
      - [Recommended reading](./fundamentals/essential-reading.md)
      - [Contributor Code of Conduct](./fundamentals/contributor-code-of-conduct.md)
      - [Contributor Privacy Policy](./fundamentals/contributor-privacy-policy.md)
+- [Finance](./finance/index.md)
+     - [Getting paid](./finance/getting-paid.md)
+     - [Third-party invoices format](./finance/third-party-invoices-format.md)
+     - [Expense reimbursements](./finance/expense-reimbursements.md)
 - [Perks](./perks/index.md)
      - [Computers and devices](./perks/computers-and-devices.md)
      - [Events and meetups](./perks/events-and-meetups.md)
@@ -24,11 +28,6 @@
      - [Traveling for Status](./working-here/traveling-for-status.md)
           - [How to use TravelPerk](./working-here/how-to-use-travelperk.md)
 - [Your most important role](./hiring/index.md)
-- [Finance](./finance/index.md)
-     - [Getting paid](./finance/getting-paid.md)
-     - [Third-party invoices format](./finance/third-party-invoices-format.md)
-     - [Expense reimbursements](./finance/expense-reimbursements.md)
-     - [Requesting funding](./finance/requesting-funding.md)
 
 *****
 
