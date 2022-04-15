@@ -22,6 +22,8 @@ Here's a sample of how invoices should look, as well as all the appropriate data
 | Switzerland | Singapore | Germany |
 | MWST-Nr: CHE-319.159.934 MWST | UEN: 201625575Z | USt-IdNr: DE317300297 |
 
+![Invoice I](/src/images/invoice-i.png)
+
 ## Content Information
    * The word INVOICE or CREDIT NOTE or DEBIT NOTE (*);
    * Invoice/note number (must be unique) (*);
@@ -37,6 +39,8 @@ Here's a sample of how invoices should look, as well as all the appropriate data
    * Total payable amount (*).
 
 */* Mandatory fields.*
+
+![Invoice I](/src/images/invoice-ii.png)
 
 *****
 
