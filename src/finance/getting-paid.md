@@ -10,6 +10,8 @@ Send your invoice in PDF format to `billing@status.im`, latest on the 15th. Your
 
 You need to include your total expenses per category in your invoice (and these should be submitted separately via Expensify). Check out [expense reimbursements](/src/finance/expense-reimbursements.md/) for more details on this topic.
 
+![Invoice I](/src/images/invoice-i.png)
+
 Your invoice should include:
    * Your legal name and address as per your agreement.
    * A unique invoice number.
@@ -21,6 +23,8 @@ Your invoice should include:
    * Total per category for expense reimbursements being claimed as per the [expense reimbursements guide](/src/finance/expense-reimbursements.md/).
    * According to your agreement, the full fee and the fiat currency (in CHF, USD, EUR, or other).
    * Your contributor number as per your Bamboo profile.
+
+![Invoice II](/src/images/invoice-ii.png)
 
 You can use [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898), but please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
 
@@ -43,7 +47,7 @@ If you need a specific reference to complete this payment, please state it expli
 
 > ⚠️ To make sure that your changes are considered for the current month, change your info before the 15th. Remove accented or special characters. We can only correctly upload plain text to the system.
 
-Please be sure that your employment contract or services agreement reflects your registered address for banking purposes, as our bank sometimes asks us to validate that banking details match contract details.
+Please be sure that your services agreement reflects your registered address for banking purposes, as our bank sometimes asks us to validate that banking details match contract details.
 
 ### Getting Paid in Crypto
 
@@ -101,11 +105,6 @@ Please use the working days shown below for your calculations:
 ### Expense Reimbursements
 
 From time to time, you might need to pay reimbursable expenses for the development of the project. To read more on how to get reimbursed for these expenses, please follow [this link](/src/finance/expense-reimbursements.md).
-
-### Swiss and German employees
-
-You will be paid via monthly payroll as calculated by our outsourced payroll partners. There is no need to submit an invoice for your monthly salary. Please, maintain the percentages you wish to receive in crypto on your Bamboo profile, as we will prepare payments based on the split you indicate there.
-
 
 *****
 
