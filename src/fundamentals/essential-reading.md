@@ -2,11 +2,15 @@
 
 We encourage using some time to learn about things related to your tasks and our collective mission. Make your peers aware of you being on/offline and that the team's progress doesn't get hindered. Feel free to discuss it openly and agree on timing with everyone involved.
 
+We offer an annual learning budget of 170 USD for each core contributor. You can use this budget towards things like books, conferences, or online courses. Speak with your team lead to request additional funding if needed.
+
+> ℹ️ Team leads: if there's room in your budget, you can approve learning requests directly. Otherwise, create a [funding request](./finance/requesting-funding.md).
+
 If you need a reference, a regular contributor could spend their first 1-4 weeks spending 50% of their billed hours to learn and ~2-5 hours p/w after that on an ongoing basis. This is just an example, and we encourage you to figure out a learning cadence that best helps you succeed in contributing to Status.
 
 We've made a selection of readings that can help give you more context of our vision and culture. 
 
-We've added PDFs whenever possible, but you can also order them and [file a reimbursement](/src/finance/expense-reimbursements.md). Read them at your own pace! We highly recommend you read the first group; the second one is nice to go through but less critical.
+We've added PDFs whenever possible, but you can also order them and [file a reimbursement](/src/finance/expense-reimbursements.md) for books or other applicable learning expenses. Read them at your own pace! We highly recommend you read the first group; the second one is nice to go through but less critical.
 
 ## Essential reading
 
