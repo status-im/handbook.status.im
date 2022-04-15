@@ -6,7 +6,7 @@ You can request a reimbursement for expenses incurred on behalf of Status during
    * [Workspace, computers and devices](src/perks/workspace-computers-and-devices.md)
    * [Events and meetups](src/perks/events-and-meetups.md)
    * [Traveling for Status](src/remote-at-status/traveling-for-status.md)
-   * [Essential reading](src/welcome-to-status/essential-reading.md)
+   * [Essential reading](src/fundamentals/essential-reading.md)
 
 It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses correctly. The standard expense reimbursement process uses:
    * [Expensify](https://www.expensify.com/) to report and store the expense receipts, AND
