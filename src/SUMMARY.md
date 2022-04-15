@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](./index.md)
-- [Welcome to Status](./welcome-to-status/index.md)
+- [Welcome to Status](./welcome-to-status.md)
 - [Our principles](./our-principles.md)
 - [Directory of Core Contributors](./catalog.md)
 - [Settling in](./settling-in/index.md)
@@ -31,4 +31,4 @@
 
 *****
 
-- [Contributing to the handbook](./contributing-to-the-handbook.md)
+- [Contributing to the Contributors Guide](./contributing-to-this-page.md)
