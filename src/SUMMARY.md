@@ -16,6 +16,7 @@
      - [Recommended reading](./fundamentals/essential-reading.md)
      - [Contributor Code of Conduct](./fundamentals/contributor-code-of-conduct.md)
      - [Contributor Privacy Policy](./fundamentals/contributor-privacy-policy.md)
+     - [In case of emergency](./fundamentals/emergencies.md)
 - [Finance](./finance/index.md)
      - [Getting paid](./finance/getting-paid.md)
      - [Third-party invoices format](./finance/third-party-invoices-format.md)
