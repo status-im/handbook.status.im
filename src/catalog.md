@@ -1,4 +1,4 @@
-# Catalog
+# ℹ️ Directory of Core Contributors
 
 <style>
 div#content>main {

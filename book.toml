@@ -3,7 +3,7 @@ authors = ["Jakub Sokołowski"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Status Employee Handbook"
+title = "Status Contributors Guide"
 
 [output.html]
 cname = "handbook.status.im"
