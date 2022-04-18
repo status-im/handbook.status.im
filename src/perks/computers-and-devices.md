@@ -1,10 +1,10 @@
 # 🖥 Computers and devices
 
-Having the proper setup is fundamental to ensuring you can work comfortably. Since we're all working remotely, you can choose what suits you best within a budget. If you're a core contributor at Status, we'll provide you with the tools required to succeed in your role during your onboarding. 
+Having the proper setup is fundamental to ensure you can work comfortably to successfully deliver services to Status. We hold our principles dear and support you as a core contributors with some of the tools you might need  to succeed in providing services to Status using secure, decentralized devices. 
 
-Here you'll find helpful information to set yourself up with the computers and devices you need.
+Here you'll find helpful information to set yourself up with some devices you might need.
 
-## ☑️ Pre-approved equipment
+## ☑️ Pre-approved devices
 
 All core contributors have a list of pre-approved equipment budgets previously considered within their team budgets. That means you do not need prior approval from Finance to expense up to the pre-approved amount. Let your team lead know about your equipment purchasing plans. Follow the instructions below to get your computer and other devices.
 
@@ -12,33 +12,23 @@ The standard setup for everyone includes a laptop, headphones, a Keycard, a Yubi
 
 We defined the amounts to cover a range of options, so you will stay below that budget in most cases. When that happens, note that pre-approved amounts aren't "balances," and you can't spend the difference for other stuff.
 
-   * Laptop: up to 2000 USD
-   * Mic and headphones: up to 100 USD
+   * Laptop: up to 3000 USD
+   * Mic and headphones: up to 120 USD
    * Keycard: ping the #keycard channel to get a code 
    * Yubikey: you can reimburse one
    * Ledger: you can reimburse one
 
-For additional funds per item or other equipment, you need to obtain a previous approval from your team lead and add the approval details to your reimbursement. If your equipment needs fall outside your team's budget, you can [request funds](/src/finance/request-funds.md) for approval. Some examples of other equipment:
+For additional funds per item or other tools, you need to obtain a previous approval from your team lead and add the approval details to your reimbursement. 
 
-   * Testing phones for engineering roles
-   * A printer for an ops role
-   * A digital sketchpad for a design role
-
-> ℹ️ If you're unsure whether or not this applies to you, ping People Ops. We occasionally have loan assets available to all contributors. 
-
-## 🎁 How to get your computers and devices
+## 🏪 How to get your devices
 
    1. Let your team lead know prior to purchasing the devices. 
    2. Choose official or trusted vendors to buy your equipment.
    3. Go to your `profile > assets` in BambooHR and `Add assets,` filling all device information.
-   4. Once registered, request a refund by adding the expense to Expensify and your next invoice.
+   4. Once registered, [request a refund](./finance/expense-reimbursements) by adding the expense to Expensify and your next invoice.
    5. You can reimburse custom expenses. Try to avoid international shipping when possible. Buy from vendors within your country or economic area. 
 
 ## ℹ️ FAQ
-
-   * **What if I'm a German or Swiss employee?**
-
-      If you're a German or Swiss employee, please be sure to buy your devices via an invoice addressed to the [German or Swiss entity](./finance/third-party-invoices-format.md). The invoice should be submitted to billing@status.im.
 
    * **What if I don't have enough funds to buy the device before reimbursement?**
    
@@ -46,20 +36,15 @@ For additional funds per item or other equipment, you need to obtain a previous 
    
    * **What if my devices become outdated?**
    
-      After 36 months usage or if your device needs an upgrade, ping People Ops.
+      At the 3 year mark (or earlier, please check with your team lead), if your device needs an upgrade, ping People Ops.
       
    * **What happens if I accidentally damage a device?**
 
       You should treat the devices as if they were yours. If the damage was due to factors beyond your control, please obtain a quote for a repair and let People Ops know. If the cost is reasonable (i.e., less than ~75% of the trade-in value of the asset), we would ask you to go ahead and get the device repaired. Then, submit the repair expense cost for reimbursement.
       
-   * **What if I leave Status?**
+   * **What if I my services contract with Status finishes?**
 
-      Please check out [this offboarding guide](/src/settling-in/offboarding.md) for your options on recycling or buying back your laptop.
-
-
-## Related articles
-
-   * [How to get reimbursed](/src/finance/expense-reimbursements.md)
+      Please check out [this guide](./offboarding.md) for your options on recycling or buying back devices.
 
 
 *****

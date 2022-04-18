@@ -10,7 +10,7 @@ Send your invoice in PDF format to `billing@status.im`, latest on the 15th. Your
 
 You need to include your total expenses per category in your invoice (and these should be submitted separately via Expensify). Check out [expense reimbursements](/src/finance/expense-reimbursements.md/) for more details on this topic.
 
-![Invoice I](/src/images/invoice-i.png)
+![Invoice I](../images/invoice-i.png)
 
 Your invoice should include:
    * Your legal name and address as per your agreement.
@@ -24,7 +24,7 @@ Your invoice should include:
    * According to your agreement, the full fee and the fiat currency (in CHF, USD, EUR, or other).
    * Your contributor number as per your Bamboo profile.
 
-![Invoice II](/src/images/invoice-ii.png)
+![Invoice II](../images/invoice-ii.png)
 
 You can use [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898), but please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
 
