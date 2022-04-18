@@ -3,7 +3,7 @@
 ## How to get reimbursed for expenses?
 
 You can request a reimbursement for expenses incurred on behalf of Status during the project's development. You can read about some of these expenses at:
-   * [Workspace, computers and devices](src/perks/workspace-computers-and-devices.md)
+   * [Computers and devices](src/perks/computers-and-devices.md)
    * [Events and meetups](src/perks/events-and-meetups.md)
    * [Traveling for Status](src/remote-at-status/traveling-for-status.md)
    * [Essential reading](src/fundamentals/essential-reading.md)
