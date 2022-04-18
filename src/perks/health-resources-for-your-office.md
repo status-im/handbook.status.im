@@ -11,10 +11,9 @@ The number one rule is move! Everyone's body needs some stretching, standing up,
 
 Think about it as a system where when certain parts become more passive (your body), others overload to compensate (more mental effort to do things). Taking moving breaks helps sustain balance.
 
-Some people organize their days so that training, lunchtime, or picking up kids from school happen between focus work blocks. If you don't have a smartwatch, here are some tools that can remind you to have more often, shorter breaks:
+Some people organize their days so that training, lunchtime, or picking up kids from school happen between focus work blocks. If you don't have a smartwatch, here are some desktop tools that can remind you to have more often, shorter breaks:
 
-   * [Awareness](http://iamfutureproof.com/tools/awareness/)
-   * [Time out](https://apps.apple.com/us/app/time-out-free/id402592703?l=en&mt=12)
+   * [Stretchly](https://hovancik.net/stretchly/)
    * [Workrave](https://workrave.org/)
 
 Think about what this means to you and what tools and habits you'd like to incorporate into your routine. 
