@@ -1,8 +1,8 @@
-# ⚡️ Health resources for your home office
+# ⚡️ Health resources for your office
 
 We spend almost as many hours working as sleeping. Having great working habits is as essential as getting a good night's sleep, and more often than not, they go hand in hand.
 
-Here you'll find some resources to manage stress and best practices to make your work from home experience lighter from complaints from your future self. 
+Here you'll find some resources to manage stress and best practices to make your working routine lighter from complaints from your future self. 
 
 
 ### 🏃‍♂️ Move
@@ -32,12 +32,7 @@ Experts recommend a posture where the neck, shoulder, and lower back are aligned
 
 Check out Workspace and equipment perks to get yourself a suitable desk and ergonomic chair setup, plus an external monitor if needed. 
 
-Most injuries are reversible, so if you experience pain or discomfort, seek advice. @pedro shared his experience on the matter:
-
-> Less than a year in into my first remote job, I started experiencing pain on my right wrist and accompanied by a tingling sensation in the palm of my hand. I had heard about CTS many years ago (Carpal Tunnel Syndrome), so I realized it had finally caught up with me. Fortunately, I came across some blog posts from people detailing how they overcame the problem without significant changes in habits or any surgery. The gist of it is that what was causing the condition was the habit of resting my palm on the table while using the mouse (and yes, I did use a mouse mat with gel wrist support). Fortunately, this was not definitive and could be reversed. Once I heeded the advice, got rid of the mouse mat and just started using the mouse without any support, the problem slowly went away.
->
-> The idea is that you keep your arm at a straight angle with your hand as you're using the mouse, eliminating the small weight you inflict on your carpal tunnel as you rest your wrist on a surface. One excellent book was pivotal in my change of habits after that: "The Healthy Programmer - Get Fit, Feel Better, and Keep Coding". It helped me get rid of pain due to bad posture by incentivizing me to do some simple but effective daily 10 minute exercises.
-
+Most injuries are reversible, so if you experience pain or discomfort, seek advice.
 
 ### 🌀 Blue light
 
@@ -53,7 +48,7 @@ Buying a good monitor. Two things you can check: a) that there is no extra blue 
 Got any other tips and tricks for filtering blue light? Create a PR!
 
 
-### 🔆 Headspace: manage stress and unwind after work
+### 🔆 Headspace: manage stress and unwind
 
 We've heard that a few folks would appreciate help managing stress, so we've secured some accounts with Headspace. Headspace is one of the leaders in this space, an app that focuses on mindfulness and meditation and has a range of tailored workouts for the mind. There's [research](https://www.headspace.com/science/meditation-research) that their app can positively impact stress, focus, mood, and work. 
 
