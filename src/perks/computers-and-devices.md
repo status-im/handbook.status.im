@@ -42,7 +42,7 @@ For additional funds per item or other tools, you need to obtain a previous appr
 
       You should treat the devices as if they were yours. If the damage was due to factors beyond your control, please obtain a quote for a repair and let People Ops know. If the cost is reasonable (i.e., less than ~75% of the trade-in value of the asset), we would ask you to go ahead and get the device repaired. Then, submit the repair expense cost for reimbursement.
       
-   * **What if I leave Status?**
+   * **What if I my services contract with Status finishes?**
 
       Please check out [this guide](./offboarding.md) for your options on recycling or buying back devices.
 
